@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Stud.Rev Quiz</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    input, button { margin: 5px 0; }
+    .hidden { display: none; }
+    .entry { border: 1px solid #ccc; padding: 15px; margin: 10px 0; }
+  </style>
+</head>
+<body>
+
+<h1>Stud.Rev Quiz</h1>
+
+<!-- Login/Register -->
+<div id="loginDiv">
+  <h2>Login</h2>
+  <input id="email" type="email" placeholder="Email"><br>
+  <input id="password" type="password" placeholder="Password"><br>
+  <button onclick="login()">Login</button>
+  <button onclick="register()">Register</button>
+  <p id="loginMsg" style="color:red;"></p>
+</div>
+
+<!-- Session Selection -->
+<div id="sessionsDiv" class="hidden">
+  <h2>Select Session</h2>
+  <button onclick="startSession(1)">Session 1</button>
+  <button onclick="startSession(2)">Session 2</button>
+  <button onclick="startSession(3)">Session 3</button>
+  <button onclick="startSession(4)">Session 4</button>
+  <button onclick="startSession(5)">Session 5</button>
+  <button onclick="logout()">Logout</button>
+</div>
+
+<!-- Session Quiz -->
+<div id="sessionDiv" class="hidden">
+  <h2>Session <span id="sessionNumber"></span></h2>
+  <div id="entryContainer"></div>
+  <button id="correctBtn" onclick="markCorrect()">Correct</button>
+  <button id="incorrectBtn" onclick="markIncorrect()">Incorrect</button>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
