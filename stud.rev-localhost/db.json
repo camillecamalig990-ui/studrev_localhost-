@@ -1,10 +1,9 @@
 {
-  "users": [],
   "sets": {
     "pool": [
       {
         "id": 1,
-        "desc": "Paid ₱5,904 cash for rent",
+        "desc": "Paid ₱10,740 cash for rent",
         "account": "Rent Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -14,7 +13,7 @@
       },
       {
         "id": 2,
-        "desc": "Received ₱12,200 cash for services rendered",
+        "desc": "Received ₱5,566 cash for services rendered",
         "account": "Service Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -24,7 +23,7 @@
       },
       {
         "id": 3,
-        "desc": "Bought supplies ₱1,964 cash",
+        "desc": "Bought supplies ₱5,718 cash",
         "account": "Supplies",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -34,7 +33,7 @@
       },
       {
         "id": 4,
-        "desc": "Paid salaries ₱12,390",
+        "desc": "Paid salaries ₱14,339",
         "account": "Salaries Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -44,7 +43,7 @@
       },
       {
         "id": 5,
-        "desc": "Owner invested ₱8,930 cash into the business",
+        "desc": "Owner invested ₱8,381 cash into the business",
         "account": "Capital",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -54,7 +53,7 @@
       },
       {
         "id": 6,
-        "desc": "Received ₱7,626 cash from customer (payment on account)",
+        "desc": "Received ₱5,145 cash from customer (payment on account)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -64,7 +63,7 @@
       },
       {
         "id": 7,
-        "desc": "Paid ₱10,803 for utilities",
+        "desc": "Paid ₱7,744 for utilities",
         "account": "Utilities Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -74,7 +73,7 @@
       },
       {
         "id": 8,
-        "desc": "Purchased small equipment ₱11,674 cash",
+        "desc": "Purchased small equipment ₱572 cash",
         "account": "Equipment",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -84,7 +83,7 @@
       },
       {
         "id": 9,
-        "desc": "Received interest income ₱2,413",
+        "desc": "Received interest income ₱1,619",
         "account": "Interest Income",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -94,7 +93,7 @@
       },
       {
         "id": 10,
-        "desc": "Withdrew ₱5,804 for personal use",
+        "desc": "Withdrew ₱5,898 for personal use",
         "account": "Drawing",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -104,7 +103,7 @@
       },
       {
         "id": 11,
-        "desc": "Paid ₱9,202 cash for rent",
+        "desc": "Paid ₱1,540 cash for rent",
         "account": "Rent Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -114,7 +113,7 @@
       },
       {
         "id": 12,
-        "desc": "Received ₱6,437 cash for services rendered",
+        "desc": "Received ₱11,144 cash for services rendered",
         "account": "Service Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -124,7 +123,7 @@
       },
       {
         "id": 13,
-        "desc": "Bought supplies ₱4,207 cash",
+        "desc": "Bought supplies ₱9,179 cash",
         "account": "Supplies",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -134,7 +133,7 @@
       },
       {
         "id": 14,
-        "desc": "Paid salaries ₱14,970",
+        "desc": "Paid salaries ₱8,450",
         "account": "Salaries Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -144,7 +143,7 @@
       },
       {
         "id": 15,
-        "desc": "Owner invested ₱6,910 cash into the business",
+        "desc": "Owner invested ₱1,435 cash into the business",
         "account": "Capital",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -154,7 +153,7 @@
       },
       {
         "id": 16,
-        "desc": "Received ₱5,074 cash from customer (payment on account)",
+        "desc": "Received ₱11,808 cash from customer (payment on account)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -164,7 +163,7 @@
       },
       {
         "id": 17,
-        "desc": "Paid ₱11,544 for utilities",
+        "desc": "Paid ₱9,593 for utilities",
         "account": "Utilities Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -174,7 +173,7 @@
       },
       {
         "id": 18,
-        "desc": "Purchased small equipment ₱4,158 cash",
+        "desc": "Purchased small equipment ₱10,274 cash",
         "account": "Equipment",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -184,7 +183,7 @@
       },
       {
         "id": 19,
-        "desc": "Received interest income ₱4,258",
+        "desc": "Received interest income ₱3,050",
         "account": "Interest Income",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -194,7 +193,7 @@
       },
       {
         "id": 20,
-        "desc": "Withdrew ₱578 for personal use",
+        "desc": "Withdrew ₱1,657 for personal use",
         "account": "Drawing",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -204,7 +203,7 @@
       },
       {
         "id": 21,
-        "desc": "Paid ₱10,553 cash for rent",
+        "desc": "Paid ₱2,398 cash for rent",
         "account": "Rent Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -214,7 +213,7 @@
       },
       {
         "id": 22,
-        "desc": "Received ₱10,638 cash for services rendered",
+        "desc": "Received ₱5,718 cash for services rendered",
         "account": "Service Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -224,7 +223,7 @@
       },
       {
         "id": 23,
-        "desc": "Bought supplies ₱14,314 cash",
+        "desc": "Bought supplies ₱9,560 cash",
         "account": "Supplies",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -234,7 +233,7 @@
       },
       {
         "id": 24,
-        "desc": "Paid salaries ₱6,400",
+        "desc": "Paid salaries ₱8,698",
         "account": "Salaries Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -244,7 +243,7 @@
       },
       {
         "id": 25,
-        "desc": "Owner invested ₱5,441 cash into the business",
+        "desc": "Owner invested ₱8,770 cash into the business",
         "account": "Capital",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -254,7 +253,7 @@
       },
       {
         "id": 26,
-        "desc": "Received ₱13,589 cash from customer (payment on account)",
+        "desc": "Received ₱11,019 cash from customer (payment on account)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -264,7 +263,7 @@
       },
       {
         "id": 27,
-        "desc": "Paid ₱748 for utilities",
+        "desc": "Paid ₱14,695 for utilities",
         "account": "Utilities Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -274,7 +273,7 @@
       },
       {
         "id": 28,
-        "desc": "Purchased small equipment ₱11,332 cash",
+        "desc": "Purchased small equipment ₱11,017 cash",
         "account": "Equipment",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -284,7 +283,7 @@
       },
       {
         "id": 29,
-        "desc": "Received interest income ₱10,485",
+        "desc": "Received interest income ₱13,392",
         "account": "Interest Income",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -294,7 +293,7 @@
       },
       {
         "id": 30,
-        "desc": "Withdrew ₱9,922 for personal use",
+        "desc": "Withdrew ₱1,884 for personal use",
         "account": "Drawing",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -304,7 +303,7 @@
       },
       {
         "id": 31,
-        "desc": "Paid ₱7,155 cash for rent",
+        "desc": "Paid ₱9,020 cash for rent",
         "account": "Rent Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -314,7 +313,7 @@
       },
       {
         "id": 32,
-        "desc": "Received ₱7,245 cash for services rendered",
+        "desc": "Received ₱9,811 cash for services rendered",
         "account": "Service Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -324,7 +323,7 @@
       },
       {
         "id": 33,
-        "desc": "Bought supplies ₱3,624 cash",
+        "desc": "Bought supplies ₱4,285 cash",
         "account": "Supplies",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -334,7 +333,7 @@
       },
       {
         "id": 34,
-        "desc": "Paid salaries ₱10,355",
+        "desc": "Paid salaries ₱9,525",
         "account": "Salaries Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -344,7 +343,7 @@
       },
       {
         "id": 35,
-        "desc": "Owner invested ₱9,723 cash into the business",
+        "desc": "Owner invested ₱13,225 cash into the business",
         "account": "Capital",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -354,7 +353,7 @@
       },
       {
         "id": 36,
-        "desc": "Received ₱10,843 cash from customer (payment on account)",
+        "desc": "Received ₱14,367 cash from customer (payment on account)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -364,7 +363,7 @@
       },
       {
         "id": 37,
-        "desc": "Paid ₱14,620 for utilities",
+        "desc": "Paid ₱11,218 for utilities",
         "account": "Utilities Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -374,7 +373,7 @@
       },
       {
         "id": 38,
-        "desc": "Purchased small equipment ₱12,093 cash",
+        "desc": "Purchased small equipment ₱11,528 cash",
         "account": "Equipment",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -384,7 +383,7 @@
       },
       {
         "id": 39,
-        "desc": "Received interest income ₱12,741",
+        "desc": "Received interest income ₱9,794",
         "account": "Interest Income",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -394,7 +393,7 @@
       },
       {
         "id": 40,
-        "desc": "Withdrew ₱12,409 for personal use",
+        "desc": "Withdrew ₱7,283 for personal use",
         "account": "Drawing",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -404,7 +403,7 @@
       },
       {
         "id": 41,
-        "desc": "Paid ₱6,118 cash for rent",
+        "desc": "Paid ₱13,804 cash for rent",
         "account": "Rent Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -414,7 +413,7 @@
       },
       {
         "id": 42,
-        "desc": "Received ₱5,855 cash for services rendered",
+        "desc": "Received ₱14,430 cash for services rendered",
         "account": "Service Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -424,7 +423,7 @@
       },
       {
         "id": 43,
-        "desc": "Bought supplies ₱8,035 cash",
+        "desc": "Bought supplies ₱8,596 cash",
         "account": "Supplies",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -434,7 +433,7 @@
       },
       {
         "id": 44,
-        "desc": "Paid salaries ₱7,489",
+        "desc": "Paid salaries ₱3,725",
         "account": "Salaries Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -444,7 +443,7 @@
       },
       {
         "id": 45,
-        "desc": "Owner invested ₱14,925 cash into the business",
+        "desc": "Owner invested ₱3,615 cash into the business",
         "account": "Capital",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -454,7 +453,7 @@
       },
       {
         "id": 46,
-        "desc": "Received ₱2,319 cash from customer (payment on account)",
+        "desc": "Received ₱8,136 cash from customer (payment on account)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -464,7 +463,7 @@
       },
       {
         "id": 47,
-        "desc": "Paid ₱11,174 for utilities",
+        "desc": "Paid ₱9,360 for utilities",
         "account": "Utilities Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -474,7 +473,7 @@
       },
       {
         "id": 48,
-        "desc": "Purchased small equipment ₱14,371 cash",
+        "desc": "Purchased small equipment ₱13,930 cash",
         "account": "Equipment",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -484,7 +483,7 @@
       },
       {
         "id": 49,
-        "desc": "Received interest income ₱6,870",
+        "desc": "Received interest income ₱7,869",
         "account": "Interest Income",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -494,7 +493,7 @@
       },
       {
         "id": 50,
-        "desc": "Withdrew ₱1,467 for personal use",
+        "desc": "Withdrew ₱13,235 for personal use",
         "account": "Drawing",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -504,7 +503,7 @@
       },
       {
         "id": 51,
-        "desc": "Paid ₱842 cash for rent",
+        "desc": "Paid ₱4,035 cash for rent",
         "account": "Rent Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -514,7 +513,7 @@
       },
       {
         "id": 52,
-        "desc": "Received ₱9,299 cash for services rendered",
+        "desc": "Received ₱10,798 cash for services rendered",
         "account": "Service Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -524,7 +523,7 @@
       },
       {
         "id": 53,
-        "desc": "Bought supplies ₱5,581 cash",
+        "desc": "Bought supplies ₱3,203 cash",
         "account": "Supplies",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -534,7 +533,7 @@
       },
       {
         "id": 54,
-        "desc": "Paid salaries ₱14,316",
+        "desc": "Paid salaries ₱10,530",
         "account": "Salaries Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -544,7 +543,7 @@
       },
       {
         "id": 55,
-        "desc": "Owner invested ₱512 cash into the business",
+        "desc": "Owner invested ₱2,164 cash into the business",
         "account": "Capital",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -554,7 +553,7 @@
       },
       {
         "id": 56,
-        "desc": "Received ₱5,687 cash from customer (payment on account)",
+        "desc": "Received ₱13,127 cash from customer (payment on account)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -564,7 +563,7 @@
       },
       {
         "id": 57,
-        "desc": "Paid ₱7,779 for utilities",
+        "desc": "Paid ₱12,702 for utilities",
         "account": "Utilities Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -574,7 +573,7 @@
       },
       {
         "id": 58,
-        "desc": "Purchased small equipment ₱3,329 cash",
+        "desc": "Purchased small equipment ₱13,693 cash",
         "account": "Equipment",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -584,7 +583,7 @@
       },
       {
         "id": 59,
-        "desc": "Received interest income ₱4,314",
+        "desc": "Received interest income ₱1,815",
         "account": "Interest Income",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -594,7 +593,7 @@
       },
       {
         "id": 60,
-        "desc": "Withdrew ₱5,816 for personal use",
+        "desc": "Withdrew ₱6,977 for personal use",
         "account": "Drawing",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -604,7 +603,7 @@
       },
       {
         "id": 61,
-        "desc": "Paid ₱14,192 cash for rent",
+        "desc": "Paid ₱11,624 cash for rent",
         "account": "Rent Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -614,7 +613,7 @@
       },
       {
         "id": 62,
-        "desc": "Received ₱7,994 cash for services rendered",
+        "desc": "Received ₱10,045 cash for services rendered",
         "account": "Service Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -624,7 +623,7 @@
       },
       {
         "id": 63,
-        "desc": "Bought supplies ₱2,460 cash",
+        "desc": "Bought supplies ₱9,198 cash",
         "account": "Supplies",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -634,7 +633,7 @@
       },
       {
         "id": 64,
-        "desc": "Paid salaries ₱2,500",
+        "desc": "Paid salaries ₱14,126",
         "account": "Salaries Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -644,7 +643,7 @@
       },
       {
         "id": 65,
-        "desc": "Owner invested ₱2,046 cash into the business",
+        "desc": "Owner invested ₱13,074 cash into the business",
         "account": "Capital",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -654,7 +653,7 @@
       },
       {
         "id": 66,
-        "desc": "Received ₱9,423 cash from customer (payment on account)",
+        "desc": "Received ₱7,127 cash from customer (payment on account)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -664,7 +663,7 @@
       },
       {
         "id": 67,
-        "desc": "Paid ₱10,470 for utilities",
+        "desc": "Paid ₱5,523 for utilities",
         "account": "Utilities Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -674,7 +673,7 @@
       },
       {
         "id": 68,
-        "desc": "Purchased small equipment ₱1,440 cash",
+        "desc": "Purchased small equipment ₱3,409 cash",
         "account": "Equipment",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -684,7 +683,7 @@
       },
       {
         "id": 69,
-        "desc": "Received interest income ₱10,821",
+        "desc": "Received interest income ₱10,712",
         "account": "Interest Income",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -694,7 +693,7 @@
       },
       {
         "id": 70,
-        "desc": "Withdrew ₱4,762 for personal use",
+        "desc": "Withdrew ₱13,194 for personal use",
         "account": "Drawing",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -704,7 +703,7 @@
       },
       {
         "id": 71,
-        "desc": "Paid ₱11,277 cash for rent",
+        "desc": "Paid ₱12,732 cash for rent",
         "account": "Rent Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -714,7 +713,7 @@
       },
       {
         "id": 72,
-        "desc": "Received ₱14,171 cash for services rendered",
+        "desc": "Received ₱6,746 cash for services rendered",
         "account": "Service Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -724,7 +723,7 @@
       },
       {
         "id": 73,
-        "desc": "Bought supplies ₱9,178 cash",
+        "desc": "Bought supplies ₱14,075 cash",
         "account": "Supplies",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -734,7 +733,7 @@
       },
       {
         "id": 74,
-        "desc": "Paid salaries ₱12,433",
+        "desc": "Paid salaries ₱13,337",
         "account": "Salaries Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -744,7 +743,7 @@
       },
       {
         "id": 75,
-        "desc": "Owner invested ₱1,353 cash into the business",
+        "desc": "Owner invested ₱7,342 cash into the business",
         "account": "Capital",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -754,7 +753,7 @@
       },
       {
         "id": 76,
-        "desc": "Received ₱10,971 cash from customer (payment on account)",
+        "desc": "Received ₱12,830 cash from customer (payment on account)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -764,7 +763,7 @@
       },
       {
         "id": 77,
-        "desc": "Paid ₱4,064 for utilities",
+        "desc": "Paid ₱8,076 for utilities",
         "account": "Utilities Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -774,7 +773,7 @@
       },
       {
         "id": 78,
-        "desc": "Purchased small equipment ₱4,765 cash",
+        "desc": "Purchased small equipment ₱6,689 cash",
         "account": "Equipment",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -784,7 +783,7 @@
       },
       {
         "id": 79,
-        "desc": "Received interest income ₱9,834",
+        "desc": "Received interest income ₱1,002",
         "account": "Interest Income",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -794,7 +793,7 @@
       },
       {
         "id": 80,
-        "desc": "Withdrew ₱10,308 for personal use",
+        "desc": "Withdrew ₱9,316 for personal use",
         "account": "Drawing",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -804,7 +803,7 @@
       },
       {
         "id": 81,
-        "desc": "Paid ₱13,479 cash for rent",
+        "desc": "Paid ₱12,665 cash for rent",
         "account": "Rent Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -814,7 +813,7 @@
       },
       {
         "id": 82,
-        "desc": "Received ₱7,513 cash for services rendered",
+        "desc": "Received ₱10,661 cash for services rendered",
         "account": "Service Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -824,7 +823,7 @@
       },
       {
         "id": 83,
-        "desc": "Bought supplies ₱2,693 cash",
+        "desc": "Bought supplies ₱10,313 cash",
         "account": "Supplies",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -834,7 +833,7 @@
       },
       {
         "id": 84,
-        "desc": "Paid salaries ₱7,614",
+        "desc": "Paid salaries ₱14,914",
         "account": "Salaries Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -844,7 +843,7 @@
       },
       {
         "id": 85,
-        "desc": "Owner invested ₱3,275 cash into the business",
+        "desc": "Owner invested ₱3,815 cash into the business",
         "account": "Capital",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -854,7 +853,7 @@
       },
       {
         "id": 86,
-        "desc": "Received ₱6,197 cash from customer (payment on account)",
+        "desc": "Received ₱6,082 cash from customer (payment on account)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -864,7 +863,7 @@
       },
       {
         "id": 87,
-        "desc": "Paid ₱6,249 for utilities",
+        "desc": "Paid ₱9,180 for utilities",
         "account": "Utilities Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -874,7 +873,7 @@
       },
       {
         "id": 88,
-        "desc": "Purchased small equipment ₱11,803 cash",
+        "desc": "Purchased small equipment ₱9,635 cash",
         "account": "Equipment",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -884,7 +883,7 @@
       },
       {
         "id": 89,
-        "desc": "Received interest income ₱9,309",
+        "desc": "Received interest income ₱2,215",
         "account": "Interest Income",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -894,7 +893,7 @@
       },
       {
         "id": 90,
-        "desc": "Withdrew ₱7,047 for personal use",
+        "desc": "Withdrew ₱5,157 for personal use",
         "account": "Drawing",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -904,7 +903,7 @@
       },
       {
         "id": 91,
-        "desc": "Paid ₱8,415 cash for rent",
+        "desc": "Paid ₱13,080 cash for rent",
         "account": "Rent Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -914,7 +913,7 @@
       },
       {
         "id": 92,
-        "desc": "Received ₱5,521 cash for services rendered",
+        "desc": "Received ₱4,661 cash for services rendered",
         "account": "Service Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -924,7 +923,7 @@
       },
       {
         "id": 93,
-        "desc": "Bought supplies ₱549 cash",
+        "desc": "Bought supplies ₱3,692 cash",
         "account": "Supplies",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -934,7 +933,7 @@
       },
       {
         "id": 94,
-        "desc": "Paid salaries ₱9,841",
+        "desc": "Paid salaries ₱10,958",
         "account": "Salaries Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -944,7 +943,7 @@
       },
       {
         "id": 95,
-        "desc": "Owner invested ₱9,491 cash into the business",
+        "desc": "Owner invested ₱9,659 cash into the business",
         "account": "Capital",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -954,7 +953,7 @@
       },
       {
         "id": 96,
-        "desc": "Received ₱13,378 cash from customer (payment on account)",
+        "desc": "Received ₱10,793 cash from customer (payment on account)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -964,7 +963,7 @@
       },
       {
         "id": 97,
-        "desc": "Paid ₱10,075 for utilities",
+        "desc": "Paid ₱1,340 for utilities",
         "account": "Utilities Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -974,7 +973,7 @@
       },
       {
         "id": 98,
-        "desc": "Purchased small equipment ₱9,742 cash",
+        "desc": "Purchased small equipment ₱11,581 cash",
         "account": "Equipment",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -984,7 +983,7 @@
       },
       {
         "id": 99,
-        "desc": "Received interest income ₱2,495",
+        "desc": "Received interest income ₱9,087",
         "account": "Interest Income",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -994,7 +993,7 @@
       },
       {
         "id": 100,
-        "desc": "Withdrew ₱9,555 for personal use",
+        "desc": "Withdrew ₱13,087 for personal use",
         "account": "Drawing",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -1004,7 +1003,7 @@
       },
       {
         "id": 101,
-        "desc": "Paid ₱14,412 cash for rent",
+        "desc": "Paid ₱11,062 cash for rent",
         "account": "Rent Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -1014,7 +1013,7 @@
       },
       {
         "id": 102,
-        "desc": "Received ₱13,330 cash for services rendered",
+        "desc": "Received ₱1,213 cash for services rendered",
         "account": "Service Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -1024,7 +1023,7 @@
       },
       {
         "id": 103,
-        "desc": "Bought supplies ₱3,323 cash",
+        "desc": "Bought supplies ₱584 cash",
         "account": "Supplies",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -1034,7 +1033,7 @@
       },
       {
         "id": 104,
-        "desc": "Paid salaries ₱5,058",
+        "desc": "Paid salaries ₱6,778",
         "account": "Salaries Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -1044,7 +1043,7 @@
       },
       {
         "id": 105,
-        "desc": "Owner invested ₱8,319 cash into the business",
+        "desc": "Owner invested ₱1,118 cash into the business",
         "account": "Capital",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -1054,7 +1053,7 @@
       },
       {
         "id": 106,
-        "desc": "Received ₱3,305 cash from customer (payment on account)",
+        "desc": "Received ₱10,009 cash from customer (payment on account)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -1064,7 +1063,7 @@
       },
       {
         "id": 107,
-        "desc": "Paid ₱1,781 for utilities",
+        "desc": "Paid ₱11,039 for utilities",
         "account": "Utilities Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -1074,7 +1073,7 @@
       },
       {
         "id": 108,
-        "desc": "Purchased small equipment ₱2,165 cash",
+        "desc": "Purchased small equipment ₱8,776 cash",
         "account": "Equipment",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -1084,7 +1083,7 @@
       },
       {
         "id": 109,
-        "desc": "Received interest income ₱13,351",
+        "desc": "Received interest income ₱4,334",
         "account": "Interest Income",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -1094,7 +1093,7 @@
       },
       {
         "id": 110,
-        "desc": "Withdrew ₱930 for personal use",
+        "desc": "Withdrew ₱9,452 for personal use",
         "account": "Drawing",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -1104,7 +1103,7 @@
       },
       {
         "id": 111,
-        "desc": "Paid ₱12,739 cash for rent",
+        "desc": "Paid ₱1,758 cash for rent",
         "account": "Rent Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -1114,7 +1113,7 @@
       },
       {
         "id": 112,
-        "desc": "Received ₱8,097 cash for services rendered",
+        "desc": "Received ₱10,890 cash for services rendered",
         "account": "Service Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -1124,7 +1123,7 @@
       },
       {
         "id": 113,
-        "desc": "Bought supplies ₱14,699 cash",
+        "desc": "Bought supplies ₱1,017 cash",
         "account": "Supplies",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -1134,7 +1133,7 @@
       },
       {
         "id": 114,
-        "desc": "Paid salaries ₱13,011",
+        "desc": "Paid salaries ₱10,380",
         "account": "Salaries Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -1144,7 +1143,7 @@
       },
       {
         "id": 115,
-        "desc": "Owner invested ₱13,236 cash into the business",
+        "desc": "Owner invested ₱11,671 cash into the business",
         "account": "Capital",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -1154,7 +1153,7 @@
       },
       {
         "id": 116,
-        "desc": "Received ₱1,441 cash from customer (payment on account)",
+        "desc": "Received ₱1,545 cash from customer (payment on account)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -1164,7 +1163,7 @@
       },
       {
         "id": 117,
-        "desc": "Paid ₱10,791 for utilities",
+        "desc": "Paid ₱10,344 for utilities",
         "account": "Utilities Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -1174,7 +1173,7 @@
       },
       {
         "id": 118,
-        "desc": "Purchased small equipment ₱5,421 cash",
+        "desc": "Purchased small equipment ₱9,536 cash",
         "account": "Equipment",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -1184,7 +1183,7 @@
       },
       {
         "id": 119,
-        "desc": "Received interest income ₱12,299",
+        "desc": "Received interest income ₱1,448",
         "account": "Interest Income",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -1194,7 +1193,7 @@
       },
       {
         "id": 120,
-        "desc": "Withdrew ₱6,810 for personal use",
+        "desc": "Withdrew ₱1,131 for personal use",
         "account": "Drawing",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -1204,7 +1203,7 @@
       },
       {
         "id": 121,
-        "desc": "Paid ₱6,606 cash for rent",
+        "desc": "Paid ₱14,525 cash for rent",
         "account": "Rent Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -1214,7 +1213,7 @@
       },
       {
         "id": 122,
-        "desc": "Received ₱11,904 cash for services rendered",
+        "desc": "Received ₱6,491 cash for services rendered",
         "account": "Service Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -1224,7 +1223,7 @@
       },
       {
         "id": 123,
-        "desc": "Bought supplies ₱8,410 cash",
+        "desc": "Bought supplies ₱11,100 cash",
         "account": "Supplies",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -1234,7 +1233,7 @@
       },
       {
         "id": 124,
-        "desc": "Paid salaries ₱11,199",
+        "desc": "Paid salaries ₱9,308",
         "account": "Salaries Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -1244,7 +1243,7 @@
       },
       {
         "id": 125,
-        "desc": "Owner invested ₱8,860 cash into the business",
+        "desc": "Owner invested ₱13,450 cash into the business",
         "account": "Capital",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -1254,7 +1253,7 @@
       },
       {
         "id": 126,
-        "desc": "Received ₱8,865 cash from customer (payment on account)",
+        "desc": "Received ₱14,819 cash from customer (payment on account)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -1264,7 +1263,7 @@
       },
       {
         "id": 127,
-        "desc": "Paid ₱7,285 for utilities",
+        "desc": "Paid ₱4,644 for utilities",
         "account": "Utilities Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -1274,7 +1273,7 @@
       },
       {
         "id": 128,
-        "desc": "Purchased small equipment ₱13,291 cash",
+        "desc": "Purchased small equipment ₱4,889 cash",
         "account": "Equipment",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -1284,7 +1283,7 @@
       },
       {
         "id": 129,
-        "desc": "Received interest income ₱8,342",
+        "desc": "Received interest income ₱12,135",
         "account": "Interest Income",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -1294,7 +1293,7 @@
       },
       {
         "id": 130,
-        "desc": "Withdrew ₱11,414 for personal use",
+        "desc": "Withdrew ₱12,789 for personal use",
         "account": "Drawing",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -1304,7 +1303,7 @@
       },
       {
         "id": 131,
-        "desc": "Paid ₱12,460 cash for rent",
+        "desc": "Paid ₱8,490 cash for rent",
         "account": "Rent Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -1314,7 +1313,7 @@
       },
       {
         "id": 132,
-        "desc": "Received ₱12,973 cash for services rendered",
+        "desc": "Received ₱3,722 cash for services rendered",
         "account": "Service Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -1324,7 +1323,7 @@
       },
       {
         "id": 133,
-        "desc": "Bought supplies ₱13,191 cash",
+        "desc": "Bought supplies ₱5,006 cash",
         "account": "Supplies",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -1334,7 +1333,7 @@
       },
       {
         "id": 134,
-        "desc": "Paid salaries ₱10,000",
+        "desc": "Paid salaries ₱2,510",
         "account": "Salaries Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -1344,7 +1343,7 @@
       },
       {
         "id": 135,
-        "desc": "Owner invested ₱3,342 cash into the business",
+        "desc": "Owner invested ₱2,674 cash into the business",
         "account": "Capital",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -1354,7 +1353,7 @@
       },
       {
         "id": 136,
-        "desc": "Received ₱14,156 cash from customer (payment on account)",
+        "desc": "Received ₱4,969 cash from customer (payment on account)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -1364,7 +1363,7 @@
       },
       {
         "id": 137,
-        "desc": "Paid ₱1,730 for utilities",
+        "desc": "Paid ₱1,897 for utilities",
         "account": "Utilities Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -1374,7 +1373,7 @@
       },
       {
         "id": 138,
-        "desc": "Purchased small equipment ₱9,553 cash",
+        "desc": "Purchased small equipment ₱2,055 cash",
         "account": "Equipment",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -1384,7 +1383,7 @@
       },
       {
         "id": 139,
-        "desc": "Received interest income ₱4,880",
+        "desc": "Received interest income ₱6,063",
         "account": "Interest Income",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -1394,7 +1393,7 @@
       },
       {
         "id": 140,
-        "desc": "Withdrew ₱12,050 for personal use",
+        "desc": "Withdrew ₱4,073 for personal use",
         "account": "Drawing",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -1404,7 +1403,7 @@
       },
       {
         "id": 141,
-        "desc": "Paid ₱12,045 cash for rent",
+        "desc": "Paid ₱14,547 cash for rent",
         "account": "Rent Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -1414,7 +1413,7 @@
       },
       {
         "id": 142,
-        "desc": "Received ₱14,969 cash for services rendered",
+        "desc": "Received ₱10,584 cash for services rendered",
         "account": "Service Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -1424,7 +1423,7 @@
       },
       {
         "id": 143,
-        "desc": "Bought supplies ₱7,722 cash",
+        "desc": "Bought supplies ₱4,800 cash",
         "account": "Supplies",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -1434,7 +1433,7 @@
       },
       {
         "id": 144,
-        "desc": "Paid salaries ₱9,447",
+        "desc": "Paid salaries ₱2,529",
         "account": "Salaries Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -1444,7 +1443,7 @@
       },
       {
         "id": 145,
-        "desc": "Owner invested ₱7,602 cash into the business",
+        "desc": "Owner invested ₱1,078 cash into the business",
         "account": "Capital",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -1454,7 +1453,7 @@
       },
       {
         "id": 146,
-        "desc": "Received ₱8,322 cash from customer (payment on account)",
+        "desc": "Received ₱2,680 cash from customer (payment on account)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -1464,7 +1463,7 @@
       },
       {
         "id": 147,
-        "desc": "Paid ₱9,065 for utilities",
+        "desc": "Paid ₱10,972 for utilities",
         "account": "Utilities Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -1474,7 +1473,7 @@
       },
       {
         "id": 148,
-        "desc": "Purchased small equipment ₱5,214 cash",
+        "desc": "Purchased small equipment ₱10,709 cash",
         "account": "Equipment",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -1484,7 +1483,7 @@
       },
       {
         "id": 149,
-        "desc": "Received interest income ₱1,097",
+        "desc": "Received interest income ₱4,033",
         "account": "Interest Income",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -1494,7 +1493,7 @@
       },
       {
         "id": 150,
-        "desc": "Withdrew ₱13,687 for personal use",
+        "desc": "Withdrew ₱10,254 for personal use",
         "account": "Drawing",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -1504,7 +1503,7 @@
       },
       {
         "id": 151,
-        "desc": "Paid ₱12,402 cash for rent",
+        "desc": "Paid ₱12,378 cash for rent",
         "account": "Rent Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -1514,7 +1513,7 @@
       },
       {
         "id": 152,
-        "desc": "Received ₱11,711 cash for services rendered",
+        "desc": "Received ₱5,122 cash for services rendered",
         "account": "Service Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -1524,7 +1523,7 @@
       },
       {
         "id": 153,
-        "desc": "Bought supplies ₱9,905 cash",
+        "desc": "Bought supplies ₱11,262 cash",
         "account": "Supplies",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -1534,7 +1533,7 @@
       },
       {
         "id": 154,
-        "desc": "Paid salaries ₱907",
+        "desc": "Paid salaries ₱12,123",
         "account": "Salaries Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -1544,7 +1543,7 @@
       },
       {
         "id": 155,
-        "desc": "Owner invested ₱12,277 cash into the business",
+        "desc": "Owner invested ₱6,457 cash into the business",
         "account": "Capital",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -1554,7 +1553,7 @@
       },
       {
         "id": 156,
-        "desc": "Received ₱14,265 cash from customer (payment on account)",
+        "desc": "Received ₱6,711 cash from customer (payment on account)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -1564,7 +1563,7 @@
       },
       {
         "id": 157,
-        "desc": "Paid ₱14,302 for utilities",
+        "desc": "Paid ₱9,914 for utilities",
         "account": "Utilities Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -1574,7 +1573,7 @@
       },
       {
         "id": 158,
-        "desc": "Purchased small equipment ₱5,646 cash",
+        "desc": "Purchased small equipment ₱3,842 cash",
         "account": "Equipment",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -1584,7 +1583,7 @@
       },
       {
         "id": 159,
-        "desc": "Received interest income ₱9,943",
+        "desc": "Received interest income ₱13,929",
         "account": "Interest Income",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -1594,7 +1593,7 @@
       },
       {
         "id": 160,
-        "desc": "Withdrew ₱5,305 for personal use",
+        "desc": "Withdrew ₱11,800 for personal use",
         "account": "Drawing",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -1604,7 +1603,7 @@
       },
       {
         "id": 161,
-        "desc": "Paid ₱11,098 cash for rent",
+        "desc": "Paid ₱11,950 cash for rent",
         "account": "Rent Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -1614,7 +1613,7 @@
       },
       {
         "id": 162,
-        "desc": "Received ₱5,338 cash for services rendered",
+        "desc": "Received ₱9,381 cash for services rendered",
         "account": "Service Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -1624,7 +1623,7 @@
       },
       {
         "id": 163,
-        "desc": "Bought supplies ₱10,320 cash",
+        "desc": "Bought supplies ₱2,458 cash",
         "account": "Supplies",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -1634,7 +1633,7 @@
       },
       {
         "id": 164,
-        "desc": "Paid salaries ₱3,114",
+        "desc": "Paid salaries ₱13,772",
         "account": "Salaries Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -1644,7 +1643,7 @@
       },
       {
         "id": 165,
-        "desc": "Owner invested ₱10,255 cash into the business",
+        "desc": "Owner invested ₱8,539 cash into the business",
         "account": "Capital",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -1654,7 +1653,7 @@
       },
       {
         "id": 166,
-        "desc": "Received ₱8,852 cash from customer (payment on account)",
+        "desc": "Received ₱1,951 cash from customer (payment on account)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -1664,7 +1663,7 @@
       },
       {
         "id": 167,
-        "desc": "Paid ₱4,238 for utilities",
+        "desc": "Paid ₱12,031 for utilities",
         "account": "Utilities Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -1674,7 +1673,7 @@
       },
       {
         "id": 168,
-        "desc": "Purchased small equipment ₱14,182 cash",
+        "desc": "Purchased small equipment ₱4,420 cash",
         "account": "Equipment",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -1684,7 +1683,7 @@
       },
       {
         "id": 169,
-        "desc": "Received interest income ₱14,532",
+        "desc": "Received interest income ₱7,459",
         "account": "Interest Income",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -1694,7 +1693,7 @@
       },
       {
         "id": 170,
-        "desc": "Withdrew ₱1,272 for personal use",
+        "desc": "Withdrew ₱1,817 for personal use",
         "account": "Drawing",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -1704,7 +1703,7 @@
       },
       {
         "id": 171,
-        "desc": "Paid ₱3,640 cash for rent",
+        "desc": "Paid ₱8,601 cash for rent",
         "account": "Rent Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -1714,7 +1713,7 @@
       },
       {
         "id": 172,
-        "desc": "Received ₱10,011 cash for services rendered",
+        "desc": "Received ₱1,744 cash for services rendered",
         "account": "Service Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -1724,7 +1723,7 @@
       },
       {
         "id": 173,
-        "desc": "Bought supplies ₱3,790 cash",
+        "desc": "Bought supplies ₱4,087 cash",
         "account": "Supplies",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -1734,7 +1733,7 @@
       },
       {
         "id": 174,
-        "desc": "Paid salaries ₱1,199",
+        "desc": "Paid salaries ₱6,128",
         "account": "Salaries Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -1744,7 +1743,7 @@
       },
       {
         "id": 175,
-        "desc": "Owner invested ₱10,895 cash into the business",
+        "desc": "Owner invested ₱3,775 cash into the business",
         "account": "Capital",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -1754,7 +1753,7 @@
       },
       {
         "id": 176,
-        "desc": "Received ₱13,973 cash from customer (payment on account)",
+        "desc": "Received ₱7,396 cash from customer (payment on account)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -1764,7 +1763,7 @@
       },
       {
         "id": 177,
-        "desc": "Paid ₱8,193 for utilities",
+        "desc": "Paid ₱12,410 for utilities",
         "account": "Utilities Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -1774,7 +1773,7 @@
       },
       {
         "id": 178,
-        "desc": "Purchased small equipment ₱9,981 cash",
+        "desc": "Purchased small equipment ₱2,292 cash",
         "account": "Equipment",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -1784,7 +1783,7 @@
       },
       {
         "id": 179,
-        "desc": "Received interest income ₱12,519",
+        "desc": "Received interest income ₱7,022",
         "account": "Interest Income",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -1794,7 +1793,7 @@
       },
       {
         "id": 180,
-        "desc": "Withdrew ₱1,373 for personal use",
+        "desc": "Withdrew ₱8,082 for personal use",
         "account": "Drawing",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -1804,7 +1803,7 @@
       },
       {
         "id": 181,
-        "desc": "Paid ₱1,592 cash for rent",
+        "desc": "Paid ₱12,893 cash for rent",
         "account": "Rent Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -1814,7 +1813,7 @@
       },
       {
         "id": 182,
-        "desc": "Received ₱10,494 cash for services rendered",
+        "desc": "Received ₱12,052 cash for services rendered",
         "account": "Service Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -1824,7 +1823,7 @@
       },
       {
         "id": 183,
-        "desc": "Bought supplies ₱12,208 cash",
+        "desc": "Bought supplies ₱13,141 cash",
         "account": "Supplies",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -1834,7 +1833,7 @@
       },
       {
         "id": 184,
-        "desc": "Paid salaries ₱13,905",
+        "desc": "Paid salaries ₱13,810",
         "account": "Salaries Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -1844,7 +1843,7 @@
       },
       {
         "id": 185,
-        "desc": "Owner invested ₱12,376 cash into the business",
+        "desc": "Owner invested ₱12,353 cash into the business",
         "account": "Capital",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -1854,7 +1853,7 @@
       },
       {
         "id": 186,
-        "desc": "Received ₱2,949 cash from customer (payment on account)",
+        "desc": "Received ₱10,850 cash from customer (payment on account)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -1864,7 +1863,7 @@
       },
       {
         "id": 187,
-        "desc": "Paid ₱12,209 for utilities",
+        "desc": "Paid ₱13,924 for utilities",
         "account": "Utilities Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -1874,7 +1873,7 @@
       },
       {
         "id": 188,
-        "desc": "Purchased small equipment ₱1,804 cash",
+        "desc": "Purchased small equipment ₱8,152 cash",
         "account": "Equipment",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -1884,7 +1883,7 @@
       },
       {
         "id": 189,
-        "desc": "Received interest income ₱10,912",
+        "desc": "Received interest income ₱12,312",
         "account": "Interest Income",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -1894,7 +1893,7 @@
       },
       {
         "id": 190,
-        "desc": "Withdrew ₱7,181 for personal use",
+        "desc": "Withdrew ₱1,307 for personal use",
         "account": "Drawing",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -1904,7 +1903,7 @@
       },
       {
         "id": 191,
-        "desc": "Paid ₱3,090 cash for rent",
+        "desc": "Paid ₱4,811 cash for rent",
         "account": "Rent Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -1914,7 +1913,7 @@
       },
       {
         "id": 192,
-        "desc": "Received ₱14,237 cash for services rendered",
+        "desc": "Received ₱10,048 cash for services rendered",
         "account": "Service Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -1924,7 +1923,7 @@
       },
       {
         "id": 193,
-        "desc": "Bought supplies ₱1,802 cash",
+        "desc": "Bought supplies ₱9,908 cash",
         "account": "Supplies",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -1934,7 +1933,7 @@
       },
       {
         "id": 194,
-        "desc": "Paid salaries ₱11,539",
+        "desc": "Paid salaries ₱4,926",
         "account": "Salaries Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -1944,7 +1943,7 @@
       },
       {
         "id": 195,
-        "desc": "Owner invested ₱7,299 cash into the business",
+        "desc": "Owner invested ₱4,043 cash into the business",
         "account": "Capital",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -1954,7 +1953,7 @@
       },
       {
         "id": 196,
-        "desc": "Received ₱12,951 cash from customer (payment on account)",
+        "desc": "Received ₱11,974 cash from customer (payment on account)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -1964,7 +1963,7 @@
       },
       {
         "id": 197,
-        "desc": "Paid ₱7,454 for utilities",
+        "desc": "Paid ₱5,266 for utilities",
         "account": "Utilities Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -1974,7 +1973,7 @@
       },
       {
         "id": 198,
-        "desc": "Purchased small equipment ₱9,043 cash",
+        "desc": "Purchased small equipment ₱13,891 cash",
         "account": "Equipment",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -1984,7 +1983,7 @@
       },
       {
         "id": 199,
-        "desc": "Received interest income ₱3,673",
+        "desc": "Received interest income ₱6,078",
         "account": "Interest Income",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -1994,7 +1993,7 @@
       },
       {
         "id": 200,
-        "desc": "Withdrew ₱13,482 for personal use",
+        "desc": "Withdrew ₱11,004 for personal use",
         "account": "Drawing",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -2004,7 +2003,7 @@
       },
       {
         "id": 201,
-        "desc": "Purchased inventory ₱9,238 on account",
+        "desc": "Purchased inventory ₱17,310 on account",
         "account": "Inventory",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2014,7 +2013,7 @@
       },
       {
         "id": 202,
-        "desc": "Sold goods ₱34,960 on account",
+        "desc": "Sold goods ₱9,885 on account",
         "account": "Sales Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -2024,7 +2023,7 @@
       },
       {
         "id": 203,
-        "desc": "Collected ₱30,415 from accounts receivable",
+        "desc": "Collected ₱32,455 from accounts receivable",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2034,7 +2033,7 @@
       },
       {
         "id": 204,
-        "desc": "Paid ₱27,792 on accounts payable",
+        "desc": "Paid ₱2,044 on accounts payable",
         "account": "Accounts Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -2044,7 +2043,7 @@
       },
       {
         "id": 205,
-        "desc": "Paid ₱35,193 cash for prepaid insurance",
+        "desc": "Paid ₱19,754 cash for prepaid insurance",
         "account": "Prepaid Insurance",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2054,7 +2053,7 @@
       },
       {
         "id": 206,
-        "desc": "Accrued salaries ₱40,832",
+        "desc": "Accrued salaries ₱3,408",
         "account": "Salaries Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -2064,7 +2063,7 @@
       },
       {
         "id": 207,
-        "desc": "Received ₱24,840 cash advance from customer",
+        "desc": "Received ₱8,758 cash advance from customer",
         "account": "Unearned Revenue",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -2074,7 +2073,7 @@
       },
       {
         "id": 208,
-        "desc": "Paid bank service charge ₱10,876",
+        "desc": "Paid bank service charge ₱7,536",
         "account": "Bank Charges Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -2084,7 +2083,7 @@
       },
       {
         "id": 209,
-        "desc": "Sold equipment for ₱8,241 cash (no gain/loss recorded)",
+        "desc": "Sold equipment for ₱35,115 cash (no gain/loss recorded)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2094,7 +2093,7 @@
       },
       {
         "id": 210,
-        "desc": "Recorded depreciation expense ₱22,654",
+        "desc": "Recorded depreciation expense ₱3,872",
         "account": "Depreciation Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -2104,7 +2103,7 @@
       },
       {
         "id": 211,
-        "desc": "Purchased inventory ₱41,691 on account",
+        "desc": "Purchased inventory ₱36,718 on account",
         "account": "Inventory",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2114,7 +2113,7 @@
       },
       {
         "id": 212,
-        "desc": "Sold goods ₱25,542 on account",
+        "desc": "Sold goods ₱22,329 on account",
         "account": "Sales Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -2124,7 +2123,7 @@
       },
       {
         "id": 213,
-        "desc": "Collected ₱19,315 from accounts receivable",
+        "desc": "Collected ₱7,588 from accounts receivable",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2134,7 +2133,7 @@
       },
       {
         "id": 214,
-        "desc": "Paid ₱30,333 on accounts payable",
+        "desc": "Paid ₱18,415 on accounts payable",
         "account": "Accounts Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -2144,7 +2143,7 @@
       },
       {
         "id": 215,
-        "desc": "Paid ₱22,160 cash for prepaid insurance",
+        "desc": "Paid ₱41,329 cash for prepaid insurance",
         "account": "Prepaid Insurance",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2154,7 +2153,7 @@
       },
       {
         "id": 216,
-        "desc": "Accrued salaries ₱8,177",
+        "desc": "Accrued salaries ₱29,562",
         "account": "Salaries Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -2164,7 +2163,7 @@
       },
       {
         "id": 217,
-        "desc": "Received ₱34,315 cash advance from customer",
+        "desc": "Received ₱29,185 cash advance from customer",
         "account": "Unearned Revenue",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -2174,7 +2173,7 @@
       },
       {
         "id": 218,
-        "desc": "Paid bank service charge ₱24,859",
+        "desc": "Paid bank service charge ₱5,482",
         "account": "Bank Charges Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -2184,7 +2183,7 @@
       },
       {
         "id": 219,
-        "desc": "Sold equipment for ₱26,511 cash (no gain/loss recorded)",
+        "desc": "Sold equipment for ₱36,816 cash (no gain/loss recorded)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2194,7 +2193,7 @@
       },
       {
         "id": 220,
-        "desc": "Recorded depreciation expense ₱27,689",
+        "desc": "Recorded depreciation expense ₱9,006",
         "account": "Depreciation Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -2204,7 +2203,7 @@
       },
       {
         "id": 221,
-        "desc": "Purchased inventory ₱13,410 on account",
+        "desc": "Purchased inventory ₱31,879 on account",
         "account": "Inventory",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2214,7 +2213,7 @@
       },
       {
         "id": 222,
-        "desc": "Sold goods ₱24,958 on account",
+        "desc": "Sold goods ₱2,655 on account",
         "account": "Sales Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -2224,7 +2223,7 @@
       },
       {
         "id": 223,
-        "desc": "Collected ₱37,760 from accounts receivable",
+        "desc": "Collected ₱42,367 from accounts receivable",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2234,7 +2233,7 @@
       },
       {
         "id": 224,
-        "desc": "Paid ₱20,839 on accounts payable",
+        "desc": "Paid ₱32,041 on accounts payable",
         "account": "Accounts Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -2244,7 +2243,7 @@
       },
       {
         "id": 225,
-        "desc": "Paid ₱10,006 cash for prepaid insurance",
+        "desc": "Paid ₱35,953 cash for prepaid insurance",
         "account": "Prepaid Insurance",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2254,7 +2253,7 @@
       },
       {
         "id": 226,
-        "desc": "Accrued salaries ₱21,098",
+        "desc": "Accrued salaries ₱39,356",
         "account": "Salaries Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -2264,7 +2263,7 @@
       },
       {
         "id": 227,
-        "desc": "Received ₱37,392 cash advance from customer",
+        "desc": "Received ₱44,223 cash advance from customer",
         "account": "Unearned Revenue",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -2274,7 +2273,7 @@
       },
       {
         "id": 228,
-        "desc": "Paid bank service charge ₱20,827",
+        "desc": "Paid bank service charge ₱8,944",
         "account": "Bank Charges Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -2284,7 +2283,7 @@
       },
       {
         "id": 229,
-        "desc": "Sold equipment for ₱2,983 cash (no gain/loss recorded)",
+        "desc": "Sold equipment for ₱12,458 cash (no gain/loss recorded)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2294,7 +2293,7 @@
       },
       {
         "id": 230,
-        "desc": "Recorded depreciation expense ₱10,395",
+        "desc": "Recorded depreciation expense ₱44,964",
         "account": "Depreciation Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -2304,7 +2303,7 @@
       },
       {
         "id": 231,
-        "desc": "Purchased inventory ₱16,746 on account",
+        "desc": "Purchased inventory ₱28,093 on account",
         "account": "Inventory",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2314,7 +2313,7 @@
       },
       {
         "id": 232,
-        "desc": "Sold goods ₱8,828 on account",
+        "desc": "Sold goods ₱26,394 on account",
         "account": "Sales Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -2324,7 +2323,7 @@
       },
       {
         "id": 233,
-        "desc": "Collected ₱32,864 from accounts receivable",
+        "desc": "Collected ₱29,102 from accounts receivable",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2334,7 +2333,7 @@
       },
       {
         "id": 234,
-        "desc": "Paid ₱41,275 on accounts payable",
+        "desc": "Paid ₱1,676 on accounts payable",
         "account": "Accounts Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -2344,7 +2343,7 @@
       },
       {
         "id": 235,
-        "desc": "Paid ₱34,382 cash for prepaid insurance",
+        "desc": "Paid ₱36,006 cash for prepaid insurance",
         "account": "Prepaid Insurance",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2354,7 +2353,7 @@
       },
       {
         "id": 236,
-        "desc": "Accrued salaries ₱25,913",
+        "desc": "Accrued salaries ₱27,969",
         "account": "Salaries Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -2364,7 +2363,7 @@
       },
       {
         "id": 237,
-        "desc": "Received ₱13,708 cash advance from customer",
+        "desc": "Received ₱10,003 cash advance from customer",
         "account": "Unearned Revenue",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -2374,7 +2373,7 @@
       },
       {
         "id": 238,
-        "desc": "Paid bank service charge ₱18,321",
+        "desc": "Paid bank service charge ₱38,562",
         "account": "Bank Charges Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -2384,7 +2383,7 @@
       },
       {
         "id": 239,
-        "desc": "Sold equipment for ₱27,042 cash (no gain/loss recorded)",
+        "desc": "Sold equipment for ₱20,120 cash (no gain/loss recorded)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2394,7 +2393,7 @@
       },
       {
         "id": 240,
-        "desc": "Recorded depreciation expense ₱22,725",
+        "desc": "Recorded depreciation expense ₱18,795",
         "account": "Depreciation Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -2404,7 +2403,7 @@
       },
       {
         "id": 241,
-        "desc": "Purchased inventory ₱31,116 on account",
+        "desc": "Purchased inventory ₱3,544 on account",
         "account": "Inventory",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2414,7 +2413,7 @@
       },
       {
         "id": 242,
-        "desc": "Sold goods ₱36,670 on account",
+        "desc": "Sold goods ₱36,241 on account",
         "account": "Sales Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -2424,7 +2423,7 @@
       },
       {
         "id": 243,
-        "desc": "Collected ₱23,486 from accounts receivable",
+        "desc": "Collected ₱5,721 from accounts receivable",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2434,7 +2433,7 @@
       },
       {
         "id": 244,
-        "desc": "Paid ₱6,723 on accounts payable",
+        "desc": "Paid ₱8,962 on accounts payable",
         "account": "Accounts Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -2444,7 +2443,7 @@
       },
       {
         "id": 245,
-        "desc": "Paid ₱21,293 cash for prepaid insurance",
+        "desc": "Paid ₱9,503 cash for prepaid insurance",
         "account": "Prepaid Insurance",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2454,7 +2453,7 @@
       },
       {
         "id": 246,
-        "desc": "Accrued salaries ₱20,446",
+        "desc": "Accrued salaries ₱4,744",
         "account": "Salaries Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -2464,7 +2463,7 @@
       },
       {
         "id": 247,
-        "desc": "Received ₱39,094 cash advance from customer",
+        "desc": "Received ₱16,328 cash advance from customer",
         "account": "Unearned Revenue",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -2474,7 +2473,7 @@
       },
       {
         "id": 248,
-        "desc": "Paid bank service charge ₱26,481",
+        "desc": "Paid bank service charge ₱29,475",
         "account": "Bank Charges Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -2484,7 +2483,7 @@
       },
       {
         "id": 249,
-        "desc": "Sold equipment for ₱30,460 cash (no gain/loss recorded)",
+        "desc": "Sold equipment for ₱39,111 cash (no gain/loss recorded)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2494,7 +2493,7 @@
       },
       {
         "id": 250,
-        "desc": "Recorded depreciation expense ₱32,615",
+        "desc": "Recorded depreciation expense ₱33,339",
         "account": "Depreciation Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -2504,7 +2503,7 @@
       },
       {
         "id": 251,
-        "desc": "Purchased inventory ₱35,217 on account",
+        "desc": "Purchased inventory ₱2,815 on account",
         "account": "Inventory",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2514,7 +2513,7 @@
       },
       {
         "id": 252,
-        "desc": "Sold goods ₱39,961 on account",
+        "desc": "Sold goods ₱6,554 on account",
         "account": "Sales Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -2524,7 +2523,7 @@
       },
       {
         "id": 253,
-        "desc": "Collected ₱43,971 from accounts receivable",
+        "desc": "Collected ₱37,618 from accounts receivable",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2534,7 +2533,7 @@
       },
       {
         "id": 254,
-        "desc": "Paid ₱31,163 on accounts payable",
+        "desc": "Paid ₱28,204 on accounts payable",
         "account": "Accounts Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -2544,7 +2543,7 @@
       },
       {
         "id": 255,
-        "desc": "Paid ₱13,313 cash for prepaid insurance",
+        "desc": "Paid ₱33,871 cash for prepaid insurance",
         "account": "Prepaid Insurance",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2554,7 +2553,7 @@
       },
       {
         "id": 256,
-        "desc": "Accrued salaries ₱4,580",
+        "desc": "Accrued salaries ₱39,479",
         "account": "Salaries Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -2564,7 +2563,7 @@
       },
       {
         "id": 257,
-        "desc": "Received ₱37,925 cash advance from customer",
+        "desc": "Received ₱33,298 cash advance from customer",
         "account": "Unearned Revenue",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -2574,7 +2573,7 @@
       },
       {
         "id": 258,
-        "desc": "Paid bank service charge ₱37,371",
+        "desc": "Paid bank service charge ₱4,374",
         "account": "Bank Charges Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -2584,7 +2583,7 @@
       },
       {
         "id": 259,
-        "desc": "Sold equipment for ₱39,510 cash (no gain/loss recorded)",
+        "desc": "Sold equipment for ₱6,559 cash (no gain/loss recorded)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2594,7 +2593,7 @@
       },
       {
         "id": 260,
-        "desc": "Recorded depreciation expense ₱40,214",
+        "desc": "Recorded depreciation expense ₱36,589",
         "account": "Depreciation Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -2604,7 +2603,7 @@
       },
       {
         "id": 261,
-        "desc": "Purchased inventory ₱36,413 on account",
+        "desc": "Purchased inventory ₱19,278 on account",
         "account": "Inventory",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2614,7 +2613,7 @@
       },
       {
         "id": 262,
-        "desc": "Sold goods ₱11,962 on account",
+        "desc": "Sold goods ₱44,698 on account",
         "account": "Sales Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -2624,7 +2623,7 @@
       },
       {
         "id": 263,
-        "desc": "Collected ₱39,486 from accounts receivable",
+        "desc": "Collected ₱12,793 from accounts receivable",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2634,7 +2633,7 @@
       },
       {
         "id": 264,
-        "desc": "Paid ₱24,963 on accounts payable",
+        "desc": "Paid ₱12,367 on accounts payable",
         "account": "Accounts Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -2644,7 +2643,7 @@
       },
       {
         "id": 265,
-        "desc": "Paid ₱31,630 cash for prepaid insurance",
+        "desc": "Paid ₱7,843 cash for prepaid insurance",
         "account": "Prepaid Insurance",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2654,7 +2653,7 @@
       },
       {
         "id": 266,
-        "desc": "Accrued salaries ₱39,106",
+        "desc": "Accrued salaries ₱44,037",
         "account": "Salaries Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -2664,7 +2663,7 @@
       },
       {
         "id": 267,
-        "desc": "Received ₱15,499 cash advance from customer",
+        "desc": "Received ₱24,369 cash advance from customer",
         "account": "Unearned Revenue",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -2674,7 +2673,7 @@
       },
       {
         "id": 268,
-        "desc": "Paid bank service charge ₱42,186",
+        "desc": "Paid bank service charge ₱31,498",
         "account": "Bank Charges Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -2684,7 +2683,7 @@
       },
       {
         "id": 269,
-        "desc": "Sold equipment for ₱43,981 cash (no gain/loss recorded)",
+        "desc": "Sold equipment for ₱29,561 cash (no gain/loss recorded)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2694,7 +2693,7 @@
       },
       {
         "id": 270,
-        "desc": "Recorded depreciation expense ₱28,491",
+        "desc": "Recorded depreciation expense ₱13,478",
         "account": "Depreciation Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -2704,7 +2703,7 @@
       },
       {
         "id": 271,
-        "desc": "Purchased inventory ₱23,056 on account",
+        "desc": "Purchased inventory ₱14,625 on account",
         "account": "Inventory",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2714,7 +2713,7 @@
       },
       {
         "id": 272,
-        "desc": "Sold goods ₱32,150 on account",
+        "desc": "Sold goods ₱10,029 on account",
         "account": "Sales Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -2724,7 +2723,7 @@
       },
       {
         "id": 273,
-        "desc": "Collected ₱16,823 from accounts receivable",
+        "desc": "Collected ₱6,200 from accounts receivable",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2734,7 +2733,7 @@
       },
       {
         "id": 274,
-        "desc": "Paid ₱30,415 on accounts payable",
+        "desc": "Paid ₱6,141 on accounts payable",
         "account": "Accounts Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -2744,7 +2743,7 @@
       },
       {
         "id": 275,
-        "desc": "Paid ₱35,905 cash for prepaid insurance",
+        "desc": "Paid ₱27,040 cash for prepaid insurance",
         "account": "Prepaid Insurance",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2754,7 +2753,7 @@
       },
       {
         "id": 276,
-        "desc": "Accrued salaries ₱10,209",
+        "desc": "Accrued salaries ₱36,758",
         "account": "Salaries Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -2764,7 +2763,7 @@
       },
       {
         "id": 277,
-        "desc": "Received ₱25,074 cash advance from customer",
+        "desc": "Received ₱12,092 cash advance from customer",
         "account": "Unearned Revenue",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -2774,7 +2773,7 @@
       },
       {
         "id": 278,
-        "desc": "Paid bank service charge ₱11,901",
+        "desc": "Paid bank service charge ₱10,898",
         "account": "Bank Charges Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -2784,7 +2783,7 @@
       },
       {
         "id": 279,
-        "desc": "Sold equipment for ₱16,344 cash (no gain/loss recorded)",
+        "desc": "Sold equipment for ₱41,362 cash (no gain/loss recorded)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2794,7 +2793,7 @@
       },
       {
         "id": 280,
-        "desc": "Recorded depreciation expense ₱10,474",
+        "desc": "Recorded depreciation expense ₱43,003",
         "account": "Depreciation Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -2804,7 +2803,7 @@
       },
       {
         "id": 281,
-        "desc": "Purchased inventory ₱1,720 on account",
+        "desc": "Purchased inventory ₱42,769 on account",
         "account": "Inventory",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2814,7 +2813,7 @@
       },
       {
         "id": 282,
-        "desc": "Sold goods ₱10,376 on account",
+        "desc": "Sold goods ₱34,213 on account",
         "account": "Sales Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -2824,7 +2823,7 @@
       },
       {
         "id": 283,
-        "desc": "Collected ₱14,240 from accounts receivable",
+        "desc": "Collected ₱37,384 from accounts receivable",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2834,7 +2833,7 @@
       },
       {
         "id": 284,
-        "desc": "Paid ₱24,311 on accounts payable",
+        "desc": "Paid ₱42,723 on accounts payable",
         "account": "Accounts Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -2844,7 +2843,7 @@
       },
       {
         "id": 285,
-        "desc": "Paid ₱41,768 cash for prepaid insurance",
+        "desc": "Paid ₱9,486 cash for prepaid insurance",
         "account": "Prepaid Insurance",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2854,7 +2853,7 @@
       },
       {
         "id": 286,
-        "desc": "Accrued salaries ₱9,607",
+        "desc": "Accrued salaries ₱15,392",
         "account": "Salaries Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -2864,7 +2863,7 @@
       },
       {
         "id": 287,
-        "desc": "Received ₱19,982 cash advance from customer",
+        "desc": "Received ₱36,550 cash advance from customer",
         "account": "Unearned Revenue",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -2874,7 +2873,7 @@
       },
       {
         "id": 288,
-        "desc": "Paid bank service charge ₱43,482",
+        "desc": "Paid bank service charge ₱3,110",
         "account": "Bank Charges Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -2884,7 +2883,7 @@
       },
       {
         "id": 289,
-        "desc": "Sold equipment for ₱17,587 cash (no gain/loss recorded)",
+        "desc": "Sold equipment for ₱29,498 cash (no gain/loss recorded)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2894,7 +2893,7 @@
       },
       {
         "id": 290,
-        "desc": "Recorded depreciation expense ₱22,111",
+        "desc": "Recorded depreciation expense ₱17,970",
         "account": "Depreciation Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -2904,7 +2903,7 @@
       },
       {
         "id": 291,
-        "desc": "Purchased inventory ₱7,050 on account",
+        "desc": "Purchased inventory ₱3,440 on account",
         "account": "Inventory",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2914,7 +2913,7 @@
       },
       {
         "id": 292,
-        "desc": "Sold goods ₱20,280 on account",
+        "desc": "Sold goods ₱17,234 on account",
         "account": "Sales Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -2924,7 +2923,7 @@
       },
       {
         "id": 293,
-        "desc": "Collected ₱11,875 from accounts receivable",
+        "desc": "Collected ₱17,419 from accounts receivable",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2934,7 +2933,7 @@
       },
       {
         "id": 294,
-        "desc": "Paid ₱29,300 on accounts payable",
+        "desc": "Paid ₱32,307 on accounts payable",
         "account": "Accounts Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -2944,7 +2943,7 @@
       },
       {
         "id": 295,
-        "desc": "Paid ₱27,391 cash for prepaid insurance",
+        "desc": "Paid ₱42,671 cash for prepaid insurance",
         "account": "Prepaid Insurance",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2954,7 +2953,7 @@
       },
       {
         "id": 296,
-        "desc": "Accrued salaries ₱15,698",
+        "desc": "Accrued salaries ₱4,097",
         "account": "Salaries Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -2964,7 +2963,7 @@
       },
       {
         "id": 297,
-        "desc": "Received ₱25,189 cash advance from customer",
+        "desc": "Received ₱44,293 cash advance from customer",
         "account": "Unearned Revenue",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -2974,7 +2973,7 @@
       },
       {
         "id": 298,
-        "desc": "Paid bank service charge ₱37,940",
+        "desc": "Paid bank service charge ₱40,934",
         "account": "Bank Charges Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -2984,7 +2983,7 @@
       },
       {
         "id": 299,
-        "desc": "Sold equipment for ₱1,919 cash (no gain/loss recorded)",
+        "desc": "Sold equipment for ₱11,950 cash (no gain/loss recorded)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -2994,7 +2993,7 @@
       },
       {
         "id": 300,
-        "desc": "Recorded depreciation expense ₱44,805",
+        "desc": "Recorded depreciation expense ₱18,451",
         "account": "Depreciation Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -3004,7 +3003,7 @@
       },
       {
         "id": 301,
-        "desc": "Purchased inventory ₱20,094 on account",
+        "desc": "Purchased inventory ₱25,281 on account",
         "account": "Inventory",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3014,7 +3013,7 @@
       },
       {
         "id": 302,
-        "desc": "Sold goods ₱2,500 on account",
+        "desc": "Sold goods ₱2,083 on account",
         "account": "Sales Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -3024,7 +3023,7 @@
       },
       {
         "id": 303,
-        "desc": "Collected ₱5,660 from accounts receivable",
+        "desc": "Collected ₱12,397 from accounts receivable",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3034,7 +3033,7 @@
       },
       {
         "id": 304,
-        "desc": "Paid ₱5,896 on accounts payable",
+        "desc": "Paid ₱25,838 on accounts payable",
         "account": "Accounts Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -3044,7 +3043,7 @@
       },
       {
         "id": 305,
-        "desc": "Paid ₱34,423 cash for prepaid insurance",
+        "desc": "Paid ₱19,064 cash for prepaid insurance",
         "account": "Prepaid Insurance",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3054,7 +3053,7 @@
       },
       {
         "id": 306,
-        "desc": "Accrued salaries ₱30,614",
+        "desc": "Accrued salaries ₱40,911",
         "account": "Salaries Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -3064,7 +3063,7 @@
       },
       {
         "id": 307,
-        "desc": "Received ₱4,251 cash advance from customer",
+        "desc": "Received ₱38,911 cash advance from customer",
         "account": "Unearned Revenue",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -3074,7 +3073,7 @@
       },
       {
         "id": 308,
-        "desc": "Paid bank service charge ₱20,038",
+        "desc": "Paid bank service charge ₱12,407",
         "account": "Bank Charges Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -3084,7 +3083,7 @@
       },
       {
         "id": 309,
-        "desc": "Sold equipment for ₱10,883 cash (no gain/loss recorded)",
+        "desc": "Sold equipment for ₱37,757 cash (no gain/loss recorded)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3094,7 +3093,7 @@
       },
       {
         "id": 310,
-        "desc": "Recorded depreciation expense ₱26,009",
+        "desc": "Recorded depreciation expense ₱25,840",
         "account": "Depreciation Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -3104,7 +3103,7 @@
       },
       {
         "id": 311,
-        "desc": "Purchased inventory ₱14,061 on account",
+        "desc": "Purchased inventory ₱31,940 on account",
         "account": "Inventory",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3114,7 +3113,7 @@
       },
       {
         "id": 312,
-        "desc": "Sold goods ₱17,311 on account",
+        "desc": "Sold goods ₱5,051 on account",
         "account": "Sales Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -3124,7 +3123,7 @@
       },
       {
         "id": 313,
-        "desc": "Collected ₱21,692 from accounts receivable",
+        "desc": "Collected ₱32,466 from accounts receivable",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3134,7 +3133,7 @@
       },
       {
         "id": 314,
-        "desc": "Paid ₱37,265 on accounts payable",
+        "desc": "Paid ₱18,962 on accounts payable",
         "account": "Accounts Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -3144,7 +3143,7 @@
       },
       {
         "id": 315,
-        "desc": "Paid ₱24,171 cash for prepaid insurance",
+        "desc": "Paid ₱19,369 cash for prepaid insurance",
         "account": "Prepaid Insurance",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3154,7 +3153,7 @@
       },
       {
         "id": 316,
-        "desc": "Accrued salaries ₱33,147",
+        "desc": "Accrued salaries ₱12,749",
         "account": "Salaries Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -3164,7 +3163,7 @@
       },
       {
         "id": 317,
-        "desc": "Received ₱26,415 cash advance from customer",
+        "desc": "Received ₱32,608 cash advance from customer",
         "account": "Unearned Revenue",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -3174,7 +3173,7 @@
       },
       {
         "id": 318,
-        "desc": "Paid bank service charge ₱44,618",
+        "desc": "Paid bank service charge ₱31,555",
         "account": "Bank Charges Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -3184,7 +3183,7 @@
       },
       {
         "id": 319,
-        "desc": "Sold equipment for ₱19,072 cash (no gain/loss recorded)",
+        "desc": "Sold equipment for ₱29,233 cash (no gain/loss recorded)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3194,7 +3193,7 @@
       },
       {
         "id": 320,
-        "desc": "Recorded depreciation expense ₱5,129",
+        "desc": "Recorded depreciation expense ₱14,252",
         "account": "Depreciation Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -3204,7 +3203,7 @@
       },
       {
         "id": 321,
-        "desc": "Purchased inventory ₱33,197 on account",
+        "desc": "Purchased inventory ₱30,258 on account",
         "account": "Inventory",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3214,7 +3213,7 @@
       },
       {
         "id": 322,
-        "desc": "Sold goods ₱38,148 on account",
+        "desc": "Sold goods ₱9,929 on account",
         "account": "Sales Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -3224,7 +3223,7 @@
       },
       {
         "id": 323,
-        "desc": "Collected ₱41,818 from accounts receivable",
+        "desc": "Collected ₱4,188 from accounts receivable",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3234,7 +3233,7 @@
       },
       {
         "id": 324,
-        "desc": "Paid ₱1,530 on accounts payable",
+        "desc": "Paid ₱39,153 on accounts payable",
         "account": "Accounts Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -3244,7 +3243,7 @@
       },
       {
         "id": 325,
-        "desc": "Paid ₱23,136 cash for prepaid insurance",
+        "desc": "Paid ₱44,842 cash for prepaid insurance",
         "account": "Prepaid Insurance",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3254,7 +3253,7 @@
       },
       {
         "id": 326,
-        "desc": "Accrued salaries ₱5,893",
+        "desc": "Accrued salaries ₱5,149",
         "account": "Salaries Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -3264,7 +3263,7 @@
       },
       {
         "id": 327,
-        "desc": "Received ₱26,424 cash advance from customer",
+        "desc": "Received ₱35,310 cash advance from customer",
         "account": "Unearned Revenue",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -3274,7 +3273,7 @@
       },
       {
         "id": 328,
-        "desc": "Paid bank service charge ₱27,456",
+        "desc": "Paid bank service charge ₱2,034",
         "account": "Bank Charges Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -3284,7 +3283,7 @@
       },
       {
         "id": 329,
-        "desc": "Sold equipment for ₱9,920 cash (no gain/loss recorded)",
+        "desc": "Sold equipment for ₱20,940 cash (no gain/loss recorded)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3294,7 +3293,7 @@
       },
       {
         "id": 330,
-        "desc": "Recorded depreciation expense ₱19,277",
+        "desc": "Recorded depreciation expense ₱22,345",
         "account": "Depreciation Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -3304,7 +3303,7 @@
       },
       {
         "id": 331,
-        "desc": "Purchased inventory ₱16,193 on account",
+        "desc": "Purchased inventory ₱1,676 on account",
         "account": "Inventory",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3314,7 +3313,7 @@
       },
       {
         "id": 332,
-        "desc": "Sold goods ₱4,214 on account",
+        "desc": "Sold goods ₱37,972 on account",
         "account": "Sales Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -3324,7 +3323,7 @@
       },
       {
         "id": 333,
-        "desc": "Collected ₱10,753 from accounts receivable",
+        "desc": "Collected ₱21,298 from accounts receivable",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3334,7 +3333,7 @@
       },
       {
         "id": 334,
-        "desc": "Paid ₱25,498 on accounts payable",
+        "desc": "Paid ₱13,407 on accounts payable",
         "account": "Accounts Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -3344,7 +3343,7 @@
       },
       {
         "id": 335,
-        "desc": "Paid ₱44,414 cash for prepaid insurance",
+        "desc": "Paid ₱31,232 cash for prepaid insurance",
         "account": "Prepaid Insurance",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3354,7 +3353,7 @@
       },
       {
         "id": 336,
-        "desc": "Accrued salaries ₱36,259",
+        "desc": "Accrued salaries ₱38,332",
         "account": "Salaries Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -3364,7 +3363,7 @@
       },
       {
         "id": 337,
-        "desc": "Received ₱30,450 cash advance from customer",
+        "desc": "Received ₱12,239 cash advance from customer",
         "account": "Unearned Revenue",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -3374,7 +3373,7 @@
       },
       {
         "id": 338,
-        "desc": "Paid bank service charge ₱23,952",
+        "desc": "Paid bank service charge ₱14,492",
         "account": "Bank Charges Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -3384,7 +3383,7 @@
       },
       {
         "id": 339,
-        "desc": "Sold equipment for ₱26,492 cash (no gain/loss recorded)",
+        "desc": "Sold equipment for ₱38,523 cash (no gain/loss recorded)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3394,7 +3393,7 @@
       },
       {
         "id": 340,
-        "desc": "Recorded depreciation expense ₱13,856",
+        "desc": "Recorded depreciation expense ₱30,089",
         "account": "Depreciation Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -3404,7 +3403,7 @@
       },
       {
         "id": 341,
-        "desc": "Purchased inventory ₱3,063 on account",
+        "desc": "Purchased inventory ₱13,601 on account",
         "account": "Inventory",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3414,7 +3413,7 @@
       },
       {
         "id": 342,
-        "desc": "Sold goods ₱16,379 on account",
+        "desc": "Sold goods ₱19,786 on account",
         "account": "Sales Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -3424,7 +3423,7 @@
       },
       {
         "id": 343,
-        "desc": "Collected ₱35,837 from accounts receivable",
+        "desc": "Collected ₱27,695 from accounts receivable",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3434,7 +3433,7 @@
       },
       {
         "id": 344,
-        "desc": "Paid ₱23,041 on accounts payable",
+        "desc": "Paid ₱2,684 on accounts payable",
         "account": "Accounts Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -3444,7 +3443,7 @@
       },
       {
         "id": 345,
-        "desc": "Paid ₱10,927 cash for prepaid insurance",
+        "desc": "Paid ₱32,415 cash for prepaid insurance",
         "account": "Prepaid Insurance",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3454,7 +3453,7 @@
       },
       {
         "id": 346,
-        "desc": "Accrued salaries ₱33,138",
+        "desc": "Accrued salaries ₱36,021",
         "account": "Salaries Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -3464,7 +3463,7 @@
       },
       {
         "id": 347,
-        "desc": "Received ₱20,761 cash advance from customer",
+        "desc": "Received ₱23,074 cash advance from customer",
         "account": "Unearned Revenue",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -3474,7 +3473,7 @@
       },
       {
         "id": 348,
-        "desc": "Paid bank service charge ₱9,281",
+        "desc": "Paid bank service charge ₱9,594",
         "account": "Bank Charges Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -3484,7 +3483,7 @@
       },
       {
         "id": 349,
-        "desc": "Sold equipment for ₱24,383 cash (no gain/loss recorded)",
+        "desc": "Sold equipment for ₱19,924 cash (no gain/loss recorded)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3494,7 +3493,7 @@
       },
       {
         "id": 350,
-        "desc": "Recorded depreciation expense ₱2,873",
+        "desc": "Recorded depreciation expense ₱42,270",
         "account": "Depreciation Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -3504,7 +3503,7 @@
       },
       {
         "id": 351,
-        "desc": "Purchased inventory ₱10,812 on account",
+        "desc": "Purchased inventory ₱12,879 on account",
         "account": "Inventory",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3514,7 +3513,7 @@
       },
       {
         "id": 352,
-        "desc": "Sold goods ₱33,738 on account",
+        "desc": "Sold goods ₱29,618 on account",
         "account": "Sales Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -3524,7 +3523,7 @@
       },
       {
         "id": 353,
-        "desc": "Collected ₱44,795 from accounts receivable",
+        "desc": "Collected ₱9,763 from accounts receivable",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3534,7 +3533,7 @@
       },
       {
         "id": 354,
-        "desc": "Paid ₱15,320 on accounts payable",
+        "desc": "Paid ₱1,726 on accounts payable",
         "account": "Accounts Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -3544,7 +3543,7 @@
       },
       {
         "id": 355,
-        "desc": "Paid ₱17,306 cash for prepaid insurance",
+        "desc": "Paid ₱19,062 cash for prepaid insurance",
         "account": "Prepaid Insurance",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3554,7 +3553,7 @@
       },
       {
         "id": 356,
-        "desc": "Accrued salaries ₱12,909",
+        "desc": "Accrued salaries ₱17,841",
         "account": "Salaries Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -3564,7 +3563,7 @@
       },
       {
         "id": 357,
-        "desc": "Received ₱3,421 cash advance from customer",
+        "desc": "Received ₱2,504 cash advance from customer",
         "account": "Unearned Revenue",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -3574,7 +3573,7 @@
       },
       {
         "id": 358,
-        "desc": "Paid bank service charge ₱18,280",
+        "desc": "Paid bank service charge ₱35,775",
         "account": "Bank Charges Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -3584,7 +3583,7 @@
       },
       {
         "id": 359,
-        "desc": "Sold equipment for ₱37,077 cash (no gain/loss recorded)",
+        "desc": "Sold equipment for ₱20,861 cash (no gain/loss recorded)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3594,7 +3593,7 @@
       },
       {
         "id": 360,
-        "desc": "Recorded depreciation expense ₱6,960",
+        "desc": "Recorded depreciation expense ₱37,004",
         "account": "Depreciation Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -3604,7 +3603,7 @@
       },
       {
         "id": 361,
-        "desc": "Purchased inventory ₱23,901 on account",
+        "desc": "Purchased inventory ₱3,026 on account",
         "account": "Inventory",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3614,7 +3613,7 @@
       },
       {
         "id": 362,
-        "desc": "Sold goods ₱15,897 on account",
+        "desc": "Sold goods ₱26,108 on account",
         "account": "Sales Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -3624,7 +3623,7 @@
       },
       {
         "id": 363,
-        "desc": "Collected ₱9,660 from accounts receivable",
+        "desc": "Collected ₱9,187 from accounts receivable",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3634,7 +3633,7 @@
       },
       {
         "id": 364,
-        "desc": "Paid ₱9,370 on accounts payable",
+        "desc": "Paid ₱8,674 on accounts payable",
         "account": "Accounts Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -3644,7 +3643,7 @@
       },
       {
         "id": 365,
-        "desc": "Paid ₱19,076 cash for prepaid insurance",
+        "desc": "Paid ₱42,909 cash for prepaid insurance",
         "account": "Prepaid Insurance",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3654,7 +3653,7 @@
       },
       {
         "id": 366,
-        "desc": "Accrued salaries ₱30,197",
+        "desc": "Accrued salaries ₱43,344",
         "account": "Salaries Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -3664,7 +3663,7 @@
       },
       {
         "id": 367,
-        "desc": "Received ₱13,858 cash advance from customer",
+        "desc": "Received ₱21,963 cash advance from customer",
         "account": "Unearned Revenue",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -3674,7 +3673,7 @@
       },
       {
         "id": 368,
-        "desc": "Paid bank service charge ₱28,536",
+        "desc": "Paid bank service charge ₱8,204",
         "account": "Bank Charges Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -3684,7 +3683,7 @@
       },
       {
         "id": 369,
-        "desc": "Sold equipment for ₱30,007 cash (no gain/loss recorded)",
+        "desc": "Sold equipment for ₱19,197 cash (no gain/loss recorded)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3694,7 +3693,7 @@
       },
       {
         "id": 370,
-        "desc": "Recorded depreciation expense ₱8,329",
+        "desc": "Recorded depreciation expense ₱34,355",
         "account": "Depreciation Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -3704,7 +3703,7 @@
       },
       {
         "id": 371,
-        "desc": "Purchased inventory ₱17,111 on account",
+        "desc": "Purchased inventory ₱38,613 on account",
         "account": "Inventory",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3714,7 +3713,7 @@
       },
       {
         "id": 372,
-        "desc": "Sold goods ₱35,211 on account",
+        "desc": "Sold goods ₱17,138 on account",
         "account": "Sales Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -3724,7 +3723,7 @@
       },
       {
         "id": 373,
-        "desc": "Collected ₱21,623 from accounts receivable",
+        "desc": "Collected ₱14,661 from accounts receivable",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3734,7 +3733,7 @@
       },
       {
         "id": 374,
-        "desc": "Paid ₱27,091 on accounts payable",
+        "desc": "Paid ₱17,003 on accounts payable",
         "account": "Accounts Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -3744,7 +3743,7 @@
       },
       {
         "id": 375,
-        "desc": "Paid ₱13,120 cash for prepaid insurance",
+        "desc": "Paid ₱26,464 cash for prepaid insurance",
         "account": "Prepaid Insurance",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3754,7 +3753,7 @@
       },
       {
         "id": 376,
-        "desc": "Accrued salaries ₱12,776",
+        "desc": "Accrued salaries ₱5,251",
         "account": "Salaries Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -3764,7 +3763,7 @@
       },
       {
         "id": 377,
-        "desc": "Received ₱12,971 cash advance from customer",
+        "desc": "Received ₱9,233 cash advance from customer",
         "account": "Unearned Revenue",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -3774,7 +3773,7 @@
       },
       {
         "id": 378,
-        "desc": "Paid bank service charge ₱1,747",
+        "desc": "Paid bank service charge ₱32,471",
         "account": "Bank Charges Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -3784,7 +3783,7 @@
       },
       {
         "id": 379,
-        "desc": "Sold equipment for ₱15,204 cash (no gain/loss recorded)",
+        "desc": "Sold equipment for ₱4,894 cash (no gain/loss recorded)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3794,7 +3793,7 @@
       },
       {
         "id": 380,
-        "desc": "Recorded depreciation expense ₱4,637",
+        "desc": "Recorded depreciation expense ₱44,883",
         "account": "Depreciation Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -3804,7 +3803,7 @@
       },
       {
         "id": 381,
-        "desc": "Purchased inventory ₱44,009 on account",
+        "desc": "Purchased inventory ₱33,698 on account",
         "account": "Inventory",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3814,7 +3813,7 @@
       },
       {
         "id": 382,
-        "desc": "Sold goods ₱43,425 on account",
+        "desc": "Sold goods ₱38,363 on account",
         "account": "Sales Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -3824,7 +3823,7 @@
       },
       {
         "id": 383,
-        "desc": "Collected ₱32,351 from accounts receivable",
+        "desc": "Collected ₱15,692 from accounts receivable",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3834,7 +3833,7 @@
       },
       {
         "id": 384,
-        "desc": "Paid ₱10,998 on accounts payable",
+        "desc": "Paid ₱33,009 on accounts payable",
         "account": "Accounts Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -3844,7 +3843,7 @@
       },
       {
         "id": 385,
-        "desc": "Paid ₱37,968 cash for prepaid insurance",
+        "desc": "Paid ₱23,307 cash for prepaid insurance",
         "account": "Prepaid Insurance",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3854,7 +3853,7 @@
       },
       {
         "id": 386,
-        "desc": "Accrued salaries ₱18,909",
+        "desc": "Accrued salaries ₱30,213",
         "account": "Salaries Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -3864,7 +3863,7 @@
       },
       {
         "id": 387,
-        "desc": "Received ₱44,116 cash advance from customer",
+        "desc": "Received ₱2,083 cash advance from customer",
         "account": "Unearned Revenue",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -3874,7 +3873,7 @@
       },
       {
         "id": 388,
-        "desc": "Paid bank service charge ₱33,908",
+        "desc": "Paid bank service charge ₱29,161",
         "account": "Bank Charges Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -3884,7 +3883,7 @@
       },
       {
         "id": 389,
-        "desc": "Sold equipment for ₱21,887 cash (no gain/loss recorded)",
+        "desc": "Sold equipment for ₱10,527 cash (no gain/loss recorded)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3894,7 +3893,7 @@
       },
       {
         "id": 390,
-        "desc": "Recorded depreciation expense ₱39,024",
+        "desc": "Recorded depreciation expense ₱22,007",
         "account": "Depreciation Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -3904,7 +3903,7 @@
       },
       {
         "id": 391,
-        "desc": "Purchased inventory ₱12,750 on account",
+        "desc": "Purchased inventory ₱1,982 on account",
         "account": "Inventory",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3914,7 +3913,7 @@
       },
       {
         "id": 392,
-        "desc": "Sold goods ₱34,199 on account",
+        "desc": "Sold goods ₱25,892 on account",
         "account": "Sales Revenue",
         "type": "Revenue",
         "statement": "Income Statement",
@@ -3924,7 +3923,7 @@
       },
       {
         "id": 393,
-        "desc": "Collected ₱23,870 from accounts receivable",
+        "desc": "Collected ₱19,478 from accounts receivable",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3934,7 +3933,7 @@
       },
       {
         "id": 394,
-        "desc": "Paid ₱42,284 on accounts payable",
+        "desc": "Paid ₱29,589 on accounts payable",
         "account": "Accounts Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -3944,7 +3943,7 @@
       },
       {
         "id": 395,
-        "desc": "Paid ₱42,666 cash for prepaid insurance",
+        "desc": "Paid ₱19,643 cash for prepaid insurance",
         "account": "Prepaid Insurance",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3954,7 +3953,7 @@
       },
       {
         "id": 396,
-        "desc": "Accrued salaries ₱24,495",
+        "desc": "Accrued salaries ₱20,867",
         "account": "Salaries Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -3964,7 +3963,7 @@
       },
       {
         "id": 397,
-        "desc": "Received ₱4,734 cash advance from customer",
+        "desc": "Received ₱33,668 cash advance from customer",
         "account": "Unearned Revenue",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -3974,7 +3973,7 @@
       },
       {
         "id": 398,
-        "desc": "Paid bank service charge ₱24,631",
+        "desc": "Paid bank service charge ₱2,992",
         "account": "Bank Charges Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -3984,7 +3983,7 @@
       },
       {
         "id": 399,
-        "desc": "Sold equipment for ₱40,739 cash (no gain/loss recorded)",
+        "desc": "Sold equipment for ₱20,618 cash (no gain/loss recorded)",
         "account": "Cash",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -3994,7 +3993,7 @@
       },
       {
         "id": 400,
-        "desc": "Recorded depreciation expense ₱5,109",
+        "desc": "Recorded depreciation expense ₱26,606",
         "account": "Depreciation Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -4004,7 +4003,7 @@
       },
       {
         "id": 401,
-        "desc": "Recognized amortization ₱117,806",
+        "desc": "Recognized amortization ₱7,081",
         "account": "Amortization Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -4014,7 +4013,7 @@
       },
       {
         "id": 402,
-        "desc": "Write-off bad debt ₱87,779 for an uncollectible account",
+        "desc": "Write-off bad debt ₱8,019 for an uncollectible account",
         "account": "Allowance for Doubtful Accounts",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -4024,7 +4023,7 @@
       },
       {
         "id": 403,
-        "desc": "Accrued interest payable ₱24,953",
+        "desc": "Accrued interest payable ₱114,278",
         "account": "Interest Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -4034,7 +4033,7 @@
       },
       {
         "id": 404,
-        "desc": "Reclassified portion of long-term note due within a year ₱49,646",
+        "desc": "Reclassified portion of long-term note due within a year ₱74,212",
         "account": "Current Portion of Long-term Debt",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -4044,7 +4043,7 @@
       },
       {
         "id": 405,
-        "desc": "Adjusted supplies expense ₱95,850 (used during period)",
+        "desc": "Adjusted supplies expense ₱115,242 (used during period)",
         "account": "Supplies Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -4054,7 +4053,7 @@
       },
       {
         "id": 406,
-        "desc": "Purchased equipment ₱59,907 (paid ₱4,658 cash and ₱7,062 on account)",
+        "desc": "Purchased equipment ₱44,448 (paid ₱10,210 cash and ₱8,191 on account)",
         "account": "Equipment",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -4064,7 +4063,7 @@
       },
       {
         "id": 407,
-        "desc": "Received ₱11,627 cash and recognized earned portion ₱5,673",
+        "desc": "Received ₱56,207 cash and recognized earned portion ₱7,158",
         "account": "Unearned Revenue",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -4074,7 +4073,7 @@
       },
       {
         "id": 408,
-        "desc": "Closing entry: close revenues to Income Summary ₱17,557",
+        "desc": "Closing entry: close revenues to Income Summary ₱87,949",
         "account": "Income Summary",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -4084,7 +4083,7 @@
       },
       {
         "id": 409,
-        "desc": "Correction of prior period error ₱70,501 (adjust retained earnings)",
+        "desc": "Correction of prior period error ₱110,208 (adjust retained earnings)",
         "account": "Retained Earnings",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -4094,7 +4093,7 @@
       },
       {
         "id": 410,
-        "desc": "Lease payment split: interest ₱2,658 principal ₱3,870",
+        "desc": "Lease payment split: interest ₱4,440 principal ₱9,109",
         "account": "Interest Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -4104,7 +4103,7 @@
       },
       {
         "id": 411,
-        "desc": "Recognized amortization ₱25,326",
+        "desc": "Recognized amortization ₱30,908",
         "account": "Amortization Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -4114,7 +4113,7 @@
       },
       {
         "id": 412,
-        "desc": "Write-off bad debt ₱51,441 for an uncollectible account",
+        "desc": "Write-off bad debt ₱2,656 for an uncollectible account",
         "account": "Allowance for Doubtful Accounts",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -4124,7 +4123,7 @@
       },
       {
         "id": 413,
-        "desc": "Accrued interest payable ₱104,058",
+        "desc": "Accrued interest payable ₱112,220",
         "account": "Interest Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -4134,7 +4133,7 @@
       },
       {
         "id": 414,
-        "desc": "Reclassified portion of long-term note due within a year ₱30,872",
+        "desc": "Reclassified portion of long-term note due within a year ₱51,799",
         "account": "Current Portion of Long-term Debt",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -4144,7 +4143,7 @@
       },
       {
         "id": 415,
-        "desc": "Adjusted supplies expense ₱44,508 (used during period)",
+        "desc": "Adjusted supplies expense ₱79,776 (used during period)",
         "account": "Supplies Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -4154,7 +4153,7 @@
       },
       {
         "id": 416,
-        "desc": "Purchased equipment ₱92,787 (paid ₱31,473 cash and ₱22,311 on account)",
+        "desc": "Purchased equipment ₱72,446 (paid ₱11,965 cash and ₱12,369 on account)",
         "account": "Equipment",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -4164,7 +4163,7 @@
       },
       {
         "id": 417,
-        "desc": "Received ₱37,864 cash and recognized earned portion ₱8,024",
+        "desc": "Received ₱16,739 cash and recognized earned portion ₱7,663",
         "account": "Unearned Revenue",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -4174,7 +4173,7 @@
       },
       {
         "id": 418,
-        "desc": "Closing entry: close revenues to Income Summary ₱95,322",
+        "desc": "Closing entry: close revenues to Income Summary ₱15,250",
         "account": "Income Summary",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -4184,7 +4183,7 @@
       },
       {
         "id": 419,
-        "desc": "Correction of prior period error ₱49,604 (adjust retained earnings)",
+        "desc": "Correction of prior period error ₱56,743 (adjust retained earnings)",
         "account": "Retained Earnings",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -4194,7 +4193,7 @@
       },
       {
         "id": 420,
-        "desc": "Lease payment split: interest ₱5,729 principal ₱9,502",
+        "desc": "Lease payment split: interest ₱2,061 principal ₱3,515",
         "account": "Interest Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -4204,7 +4203,7 @@
       },
       {
         "id": 421,
-        "desc": "Recognized amortization ₱4,795",
+        "desc": "Recognized amortization ₱85,753",
         "account": "Amortization Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -4214,7 +4213,7 @@
       },
       {
         "id": 422,
-        "desc": "Write-off bad debt ₱102,316 for an uncollectible account",
+        "desc": "Write-off bad debt ₱106,354 for an uncollectible account",
         "account": "Allowance for Doubtful Accounts",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -4224,7 +4223,7 @@
       },
       {
         "id": 423,
-        "desc": "Accrued interest payable ₱93,712",
+        "desc": "Accrued interest payable ₱36,141",
         "account": "Interest Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -4234,7 +4233,7 @@
       },
       {
         "id": 424,
-        "desc": "Reclassified portion of long-term note due within a year ₱65,691",
+        "desc": "Reclassified portion of long-term note due within a year ₱90,704",
         "account": "Current Portion of Long-term Debt",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -4244,7 +4243,7 @@
       },
       {
         "id": 425,
-        "desc": "Adjusted supplies expense ₱88,183 (used during period)",
+        "desc": "Adjusted supplies expense ₱91,803 (used during period)",
         "account": "Supplies Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -4254,7 +4253,7 @@
       },
       {
         "id": 426,
-        "desc": "Purchased equipment ₱75,346 (paid ₱15,794 cash and ₱32,357 on account)",
+        "desc": "Purchased equipment ₱79,078 (paid ₱28,581 cash and ₱25,407 on account)",
         "account": "Equipment",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -4264,7 +4263,7 @@
       },
       {
         "id": 427,
-        "desc": "Received ₱117,285 cash and recognized earned portion ₱22,491",
+        "desc": "Received ₱53,970 cash and recognized earned portion ₱8,415",
         "account": "Unearned Revenue",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -4274,7 +4273,7 @@
       },
       {
         "id": 428,
-        "desc": "Closing entry: close revenues to Income Summary ₱73,652",
+        "desc": "Closing entry: close revenues to Income Summary ₱72,138",
         "account": "Income Summary",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -4284,7 +4283,7 @@
       },
       {
         "id": 429,
-        "desc": "Correction of prior period error ₱69,686 (adjust retained earnings)",
+        "desc": "Correction of prior period error ₱2,448 (adjust retained earnings)",
         "account": "Retained Earnings",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -4294,7 +4293,7 @@
       },
       {
         "id": 430,
-        "desc": "Lease payment split: interest ₱16,936 principal ₱13,155",
+        "desc": "Lease payment split: interest ₱17,440 principal ₱22,496",
         "account": "Interest Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -4304,7 +4303,7 @@
       },
       {
         "id": 431,
-        "desc": "Recognized amortization ₱118,804",
+        "desc": "Recognized amortization ₱114,737",
         "account": "Amortization Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -4314,7 +4313,7 @@
       },
       {
         "id": 432,
-        "desc": "Write-off bad debt ₱3,777 for an uncollectible account",
+        "desc": "Write-off bad debt ₱61,149 for an uncollectible account",
         "account": "Allowance for Doubtful Accounts",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -4324,7 +4323,7 @@
       },
       {
         "id": 433,
-        "desc": "Accrued interest payable ₱56,442",
+        "desc": "Accrued interest payable ₱35,874",
         "account": "Interest Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -4334,7 +4333,7 @@
       },
       {
         "id": 434,
-        "desc": "Reclassified portion of long-term note due within a year ₱102,665",
+        "desc": "Reclassified portion of long-term note due within a year ₱81,632",
         "account": "Current Portion of Long-term Debt",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -4344,7 +4343,7 @@
       },
       {
         "id": 435,
-        "desc": "Adjusted supplies expense ₱76,286 (used during period)",
+        "desc": "Adjusted supplies expense ₱92,474 (used during period)",
         "account": "Supplies Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -4354,7 +4353,7 @@
       },
       {
         "id": 436,
-        "desc": "Purchased equipment ₱57,476 (paid ₱2,498 cash and ₱25,687 on account)",
+        "desc": "Purchased equipment ₱95,485 (paid ₱47,385 cash and ₱38,234 on account)",
         "account": "Equipment",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -4364,7 +4363,7 @@
       },
       {
         "id": 437,
-        "desc": "Received ₱8,080 cash and recognized earned portion ₱2,952",
+        "desc": "Received ₱19,427 cash and recognized earned portion ₱4,291",
         "account": "Unearned Revenue",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -4374,7 +4373,7 @@
       },
       {
         "id": 438,
-        "desc": "Closing entry: close revenues to Income Summary ₱32,292",
+        "desc": "Closing entry: close revenues to Income Summary ₱33,269",
         "account": "Income Summary",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -4384,7 +4383,7 @@
       },
       {
         "id": 439,
-        "desc": "Correction of prior period error ₱17,391 (adjust retained earnings)",
+        "desc": "Correction of prior period error ₱75,705 (adjust retained earnings)",
         "account": "Retained Earnings",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -4394,7 +4393,7 @@
       },
       {
         "id": 440,
-        "desc": "Lease payment split: interest ₱13,301 principal ₱14,788",
+        "desc": "Lease payment split: interest ₱5,709 principal ₱3,481",
         "account": "Interest Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -4404,7 +4403,7 @@
       },
       {
         "id": 441,
-        "desc": "Recognized amortization ₱38,447",
+        "desc": "Recognized amortization ₱117,515",
         "account": "Amortization Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -4414,7 +4413,7 @@
       },
       {
         "id": 442,
-        "desc": "Write-off bad debt ₱63,883 for an uncollectible account",
+        "desc": "Write-off bad debt ₱64,433 for an uncollectible account",
         "account": "Allowance for Doubtful Accounts",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -4424,7 +4423,7 @@
       },
       {
         "id": 443,
-        "desc": "Accrued interest payable ₱89,309",
+        "desc": "Accrued interest payable ₱14,379",
         "account": "Interest Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -4434,7 +4433,7 @@
       },
       {
         "id": 444,
-        "desc": "Reclassified portion of long-term note due within a year ₱94,347",
+        "desc": "Reclassified portion of long-term note due within a year ₱91,143",
         "account": "Current Portion of Long-term Debt",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -4444,7 +4443,7 @@
       },
       {
         "id": 445,
-        "desc": "Adjusted supplies expense ₱8,260 (used during period)",
+        "desc": "Adjusted supplies expense ₱108,252 (used during period)",
         "account": "Supplies Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -4454,7 +4453,7 @@
       },
       {
         "id": 446,
-        "desc": "Purchased equipment ₱46,075 (paid ₱17,025 cash and ₱5,256 on account)",
+        "desc": "Purchased equipment ₱43,748 (paid ₱20,664 cash and ₱10,808 on account)",
         "account": "Equipment",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -4464,7 +4463,7 @@
       },
       {
         "id": 447,
-        "desc": "Received ₱88,456 cash and recognized earned portion ₱4,876",
+        "desc": "Received ₱61,925 cash and recognized earned portion ₱28,870",
         "account": "Unearned Revenue",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -4474,7 +4473,7 @@
       },
       {
         "id": 448,
-        "desc": "Closing entry: close revenues to Income Summary ₱1,645",
+        "desc": "Closing entry: close revenues to Income Summary ₱109,351",
         "account": "Income Summary",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -4484,7 +4483,7 @@
       },
       {
         "id": 449,
-        "desc": "Correction of prior period error ₱100,576 (adjust retained earnings)",
+        "desc": "Correction of prior period error ₱87,934 (adjust retained earnings)",
         "account": "Retained Earnings",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -4494,7 +4493,7 @@
       },
       {
         "id": 450,
-        "desc": "Lease payment split: interest ₱7,483 principal ₱5,251",
+        "desc": "Lease payment split: interest ₱1,385 principal ₱328",
         "account": "Interest Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -4504,7 +4503,7 @@
       },
       {
         "id": 451,
-        "desc": "Recognized amortization ₱96,100",
+        "desc": "Recognized amortization ₱1,326",
         "account": "Amortization Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -4514,7 +4513,7 @@
       },
       {
         "id": 452,
-        "desc": "Write-off bad debt ₱101,096 for an uncollectible account",
+        "desc": "Write-off bad debt ₱116,149 for an uncollectible account",
         "account": "Allowance for Doubtful Accounts",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -4524,7 +4523,7 @@
       },
       {
         "id": 453,
-        "desc": "Accrued interest payable ₱97,944",
+        "desc": "Accrued interest payable ₱113,243",
         "account": "Interest Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -4534,7 +4533,7 @@
       },
       {
         "id": 454,
-        "desc": "Reclassified portion of long-term note due within a year ₱25,045",
+        "desc": "Reclassified portion of long-term note due within a year ₱34,309",
         "account": "Current Portion of Long-term Debt",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -4544,7 +4543,7 @@
       },
       {
         "id": 455,
-        "desc": "Adjusted supplies expense ₱116,131 (used during period)",
+        "desc": "Adjusted supplies expense ₱24,875 (used during period)",
         "account": "Supplies Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -4554,7 +4553,7 @@
       },
       {
         "id": 456,
-        "desc": "Purchased equipment ₱82,397 (paid ₱9,683 cash and ₱23,433 on account)",
+        "desc": "Purchased equipment ₱83,647 (paid ₱33,628 cash and ₱15,040 on account)",
         "account": "Equipment",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -4564,7 +4563,7 @@
       },
       {
         "id": 457,
-        "desc": "Received ₱40,612 cash and recognized earned portion ₱3,196",
+        "desc": "Received ₱65,503 cash and recognized earned portion ₱16,021",
         "account": "Unearned Revenue",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -4574,7 +4573,7 @@
       },
       {
         "id": 458,
-        "desc": "Closing entry: close revenues to Income Summary ₱114,575",
+        "desc": "Closing entry: close revenues to Income Summary ₱86,466",
         "account": "Income Summary",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -4584,7 +4583,7 @@
       },
       {
         "id": 459,
-        "desc": "Correction of prior period error ₱26,684 (adjust retained earnings)",
+        "desc": "Correction of prior period error ₱18,784 (adjust retained earnings)",
         "account": "Retained Earnings",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -4594,7 +4593,7 @@
       },
       {
         "id": 460,
-        "desc": "Lease payment split: interest ₱162 principal ₱25,172",
+        "desc": "Lease payment split: interest ₱5,818 principal ₱12,070",
         "account": "Interest Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -4604,7 +4603,7 @@
       },
       {
         "id": 461,
-        "desc": "Recognized amortization ₱61,149",
+        "desc": "Recognized amortization ₱46,710",
         "account": "Amortization Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -4614,7 +4613,7 @@
       },
       {
         "id": 462,
-        "desc": "Write-off bad debt ₱85,356 for an uncollectible account",
+        "desc": "Write-off bad debt ₱81,818 for an uncollectible account",
         "account": "Allowance for Doubtful Accounts",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -4624,7 +4623,7 @@
       },
       {
         "id": 463,
-        "desc": "Accrued interest payable ₱8,720",
+        "desc": "Accrued interest payable ₱105,388",
         "account": "Interest Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -4634,7 +4633,7 @@
       },
       {
         "id": 464,
-        "desc": "Reclassified portion of long-term note due within a year ₱48,047",
+        "desc": "Reclassified portion of long-term note due within a year ₱27,566",
         "account": "Current Portion of Long-term Debt",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -4644,7 +4643,7 @@
       },
       {
         "id": 465,
-        "desc": "Adjusted supplies expense ₱114,663 (used during period)",
+        "desc": "Adjusted supplies expense ₱9,869 (used during period)",
         "account": "Supplies Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -4654,7 +4653,7 @@
       },
       {
         "id": 466,
-        "desc": "Purchased equipment ₱39,187 (paid ₱15,666 cash and ₱6,342 on account)",
+        "desc": "Purchased equipment ₱22,720 (paid ₱10,315 cash and ₱664 on account)",
         "account": "Equipment",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -4664,7 +4663,7 @@
       },
       {
         "id": 467,
-        "desc": "Received ₱87,361 cash and recognized earned portion ₱7,622",
+        "desc": "Received ₱63,019 cash and recognized earned portion ₱9,734",
         "account": "Unearned Revenue",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -4674,7 +4673,7 @@
       },
       {
         "id": 468,
-        "desc": "Closing entry: close revenues to Income Summary ₱79,314",
+        "desc": "Closing entry: close revenues to Income Summary ₱53,318",
         "account": "Income Summary",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -4684,7 +4683,7 @@
       },
       {
         "id": 469,
-        "desc": "Correction of prior period error ₱100,056 (adjust retained earnings)",
+        "desc": "Correction of prior period error ₱67,163 (adjust retained earnings)",
         "account": "Retained Earnings",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -4694,7 +4693,7 @@
       },
       {
         "id": 470,
-        "desc": "Lease payment split: interest ₱3,790 principal ₱24,834",
+        "desc": "Lease payment split: interest ₱4,173 principal ₱13,493",
         "account": "Interest Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -4704,7 +4703,7 @@
       },
       {
         "id": 471,
-        "desc": "Recognized amortization ₱43,886",
+        "desc": "Recognized amortization ₱112,280",
         "account": "Amortization Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -4714,7 +4713,7 @@
       },
       {
         "id": 472,
-        "desc": "Write-off bad debt ₱90,164 for an uncollectible account",
+        "desc": "Write-off bad debt ₱94,031 for an uncollectible account",
         "account": "Allowance for Doubtful Accounts",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -4724,7 +4723,7 @@
       },
       {
         "id": 473,
-        "desc": "Accrued interest payable ₱5,973",
+        "desc": "Accrued interest payable ₱117,680",
         "account": "Interest Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -4734,7 +4733,7 @@
       },
       {
         "id": 474,
-        "desc": "Reclassified portion of long-term note due within a year ₱92,719",
+        "desc": "Reclassified portion of long-term note due within a year ₱12,214",
         "account": "Current Portion of Long-term Debt",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -4744,7 +4743,7 @@
       },
       {
         "id": 475,
-        "desc": "Adjusted supplies expense ₱112,933 (used during period)",
+        "desc": "Adjusted supplies expense ₱11,090 (used during period)",
         "account": "Supplies Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -4754,7 +4753,7 @@
       },
       {
         "id": 476,
-        "desc": "Purchased equipment ₱86,665 (paid ₱22,394 cash and ₱23,469 on account)",
+        "desc": "Purchased equipment ₱64,721 (paid ₱18,539 cash and ₱21,769 on account)",
         "account": "Equipment",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -4764,7 +4763,7 @@
       },
       {
         "id": 477,
-        "desc": "Received ₱23,464 cash and recognized earned portion ₱11,264",
+        "desc": "Received ₱103,041 cash and recognized earned portion ₱43,857",
         "account": "Unearned Revenue",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -4774,7 +4773,7 @@
       },
       {
         "id": 478,
-        "desc": "Closing entry: close revenues to Income Summary ₱52,133",
+        "desc": "Closing entry: close revenues to Income Summary ₱83,543",
         "account": "Income Summary",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -4784,7 +4783,7 @@
       },
       {
         "id": 479,
-        "desc": "Correction of prior period error ₱78,384 (adjust retained earnings)",
+        "desc": "Correction of prior period error ₱97,449 (adjust retained earnings)",
         "account": "Retained Earnings",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -4794,7 +4793,7 @@
       },
       {
         "id": 480,
-        "desc": "Lease payment split: interest ₱652 principal ₱9,130",
+        "desc": "Lease payment split: interest ₱3,136 principal ₱648",
         "account": "Interest Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -4804,7 +4803,7 @@
       },
       {
         "id": 481,
-        "desc": "Recognized amortization ₱97,429",
+        "desc": "Recognized amortization ₱92,934",
         "account": "Amortization Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -4814,7 +4813,7 @@
       },
       {
         "id": 482,
-        "desc": "Write-off bad debt ₱54,717 for an uncollectible account",
+        "desc": "Write-off bad debt ₱108,864 for an uncollectible account",
         "account": "Allowance for Doubtful Accounts",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -4824,7 +4823,7 @@
       },
       {
         "id": 483,
-        "desc": "Accrued interest payable ₱71,691",
+        "desc": "Accrued interest payable ₱17,056",
         "account": "Interest Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -4834,7 +4833,7 @@
       },
       {
         "id": 484,
-        "desc": "Reclassified portion of long-term note due within a year ₱15,532",
+        "desc": "Reclassified portion of long-term note due within a year ₱36,846",
         "account": "Current Portion of Long-term Debt",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -4844,7 +4843,7 @@
       },
       {
         "id": 485,
-        "desc": "Adjusted supplies expense ₱11,450 (used during period)",
+        "desc": "Adjusted supplies expense ₱108,298 (used during period)",
         "account": "Supplies Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -4854,7 +4853,7 @@
       },
       {
         "id": 486,
-        "desc": "Purchased equipment ₱77,793 (paid ₱12,931 cash and ₱15,643 on account)",
+        "desc": "Purchased equipment ₱91,147 (paid ₱27,783 cash and ₱5,372 on account)",
         "account": "Equipment",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -4864,7 +4863,7 @@
       },
       {
         "id": 487,
-        "desc": "Received ₱85,733 cash and recognized earned portion ₱8,297",
+        "desc": "Received ₱45,311 cash and recognized earned portion ₱11,561",
         "account": "Unearned Revenue",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -4874,7 +4873,7 @@
       },
       {
         "id": 488,
-        "desc": "Closing entry: close revenues to Income Summary ₱117,338",
+        "desc": "Closing entry: close revenues to Income Summary ₱4,485",
         "account": "Income Summary",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -4884,7 +4883,7 @@
       },
       {
         "id": 489,
-        "desc": "Correction of prior period error ₱101,197 (adjust retained earnings)",
+        "desc": "Correction of prior period error ₱6,519 (adjust retained earnings)",
         "account": "Retained Earnings",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -4894,7 +4893,7 @@
       },
       {
         "id": 490,
-        "desc": "Lease payment split: interest ₱448 principal ₱2,376",
+        "desc": "Lease payment split: interest ₱17,424 principal ₱9,547",
         "account": "Interest Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -4904,7 +4903,7 @@
       },
       {
         "id": 491,
-        "desc": "Recognized amortization ₱96,430",
+        "desc": "Recognized amortization ₱63,987",
         "account": "Amortization Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -4914,7 +4913,7 @@
       },
       {
         "id": 492,
-        "desc": "Write-off bad debt ₱27,652 for an uncollectible account",
+        "desc": "Write-off bad debt ₱70,768 for an uncollectible account",
         "account": "Allowance for Doubtful Accounts",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -4924,7 +4923,7 @@
       },
       {
         "id": 493,
-        "desc": "Accrued interest payable ₱95,001",
+        "desc": "Accrued interest payable ₱99,979",
         "account": "Interest Payable",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -4934,7 +4933,7 @@
       },
       {
         "id": 494,
-        "desc": "Reclassified portion of long-term note due within a year ₱2,973",
+        "desc": "Reclassified portion of long-term note due within a year ₱50,175",
         "account": "Current Portion of Long-term Debt",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -4944,7 +4943,7 @@
       },
       {
         "id": 495,
-        "desc": "Adjusted supplies expense ₱60,557 (used during period)",
+        "desc": "Adjusted supplies expense ₱57,054 (used during period)",
         "account": "Supplies Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -4954,7 +4953,7 @@
       },
       {
         "id": 496,
-        "desc": "Purchased equipment ₱13,943 (paid ₱5,431 cash and ₱1,939 on account)",
+        "desc": "Purchased equipment ₱45,390 (paid ₱6,600 cash and ₱12,069 on account)",
         "account": "Equipment",
         "type": "Asset",
         "statement": "Balance Sheet",
@@ -4964,7 +4963,7 @@
       },
       {
         "id": 497,
-        "desc": "Received ₱56,713 cash and recognized earned portion ₱3,849",
+        "desc": "Received ₱38,040 cash and recognized earned portion ₱7,255",
         "account": "Unearned Revenue",
         "type": "Liability",
         "statement": "Balance Sheet",
@@ -4974,7 +4973,7 @@
       },
       {
         "id": 498,
-        "desc": "Closing entry: close revenues to Income Summary ₱74,920",
+        "desc": "Closing entry: close revenues to Income Summary ₱101,097",
         "account": "Income Summary",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -4984,7 +4983,7 @@
       },
       {
         "id": 499,
-        "desc": "Correction of prior period error ₱76,418 (adjust retained earnings)",
+        "desc": "Correction of prior period error ₱13,077 (adjust retained earnings)",
         "account": "Retained Earnings",
         "type": "Equity",
         "statement": "Owner's Equity",
@@ -4994,7 +4993,7 @@
       },
       {
         "id": 500,
-        "desc": "Lease payment split: interest ₱1,364 principal ₱4,313",
+        "desc": "Lease payment split: interest ₱3,971 principal ₱6,936",
         "account": "Interest Expense",
         "type": "Expense",
         "statement": "Income Statement",
@@ -6017,7 +6016,6 @@
         500
       ]
     ],
-    "generatedAt": "2025-11-03T07:30:27.135Z"
-  },
-  "history": []
+    "generatedAt": "2025-11-02T09:56:00.857Z"
+  }
 }
